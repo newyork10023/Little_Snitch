@@ -14,6 +14,116 @@
       "owner" : "me",
       "action" : "allow",
       "protocol" : "tcp",
+      "modificationDate" : 1544036237.311624,
+      "creationDate" : 1544012181.863237,
+      "remote-hosts" : "sites.google.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1544036237.315365,
+      "creationDate" : 1544011829.531071,
+      "remote-hosts" : "s2.googleusercontent.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1544036097.820467,
+      "creationDate" : 1543976822.415611,
+      "remote-hosts" : "takeout-pa.clients6.google.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1544036237.335306,
+      "creationDate" : 1543971965.177647,
+      "remote-hosts" : "feedproxy.google.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542516472.278081,
+      "creationDate" : 1542504309.887619,
+      "remote-hosts" : "i9.ytimg.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542264000.459757,
+      "creationDate" : 1542227354.095451,
+      "remote-hosts" : "drive-thirdparty.googleusercontent.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542227341.929457,
+      "creationDate" : 1542219098.588548,
+      "remote-hosts" : "enterprise.google.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542217385.361286,
+      "creationDate" : 1542216484.750012,
+      "remote-hosts" : "apps.google.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542217385.362516,
+      "creationDate" : 1542216443.735353,
+      "remote-hosts" : "email-quarantine.google.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1541201951.468989,
+      "creationDate" : 1541072049.512662,
+      "remote-hosts" : "console.cloud.google.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1538429500.940625,
+      "creationDate" : 1538283987.785469,
+      "remote-hosts" : "lh6.googleusercontent.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
       "modificationDate" : 1544036097.819217,
       "creationDate" : 1543977032.727025,
       "remote-hosts" : "lh5.ggpht.com",
