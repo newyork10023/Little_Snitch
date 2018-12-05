@@ -1,0 +1,186 @@
+{
+  "rules" : [
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1541201951.437293,
+      "creationDate" : 1541116692.068753,
+      "remote-hosts" : "ocsp.affirmtrust.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1533273400.264285,
+      "creationDate" : 1533179951.169895,
+      "remote-hosts" : "ocsp.apple.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532457311.691968,
+      "creationDate" : 1532456858.918057,
+      "remote-hosts" : "ocsp.starfieldtech.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532112671.67774,
+      "creationDate" : 1532112478.726523,
+      "remote-hosts" : "ocsp.quovadisglobal.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1531615435.978245,
+      "creationDate" : 1531418881.662954,
+      "remote-hosts" : "ocsp.trustwave.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1527189248.910224,
+      "creationDate" : 1527164781.109143,
+      "remote-hosts" : "ocsp.ssl.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1524173574.456084,
+      "creationDate" : 1524173574.456084,
+      "remote-hosts" : "ocsp.usertrust.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1524166686.807471,
+      "creationDate" : 1524166686.807471,
+      "remote-hosts" : "ocsp.globalsign.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523725589.200334,
+      "creationDate" : 1523725589.200334,
+      "remote-hosts" : "ocsp.entrust.net",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523723933.635242,
+      "creationDate" : 1523723933.635242,
+      "remote-hosts" : "ocsp.godaddy.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553559.134543,
+      "creationDate" : 1523553559.134543,
+      "remote-hosts" : "ocsp2.globalsign.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523325382.393658,
+      "creationDate" : 1523325382.393658,
+      "remote-hosts" : "ocsp.ws.symantec.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523135573.436939,
+      "creationDate" : 1523135573.436939,
+      "remote-hosts" : "ocsp.sca1b.amazontrust.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523017006.0852,
+      "creationDate" : 1523017006.0852,
+      "remote-hosts" : "ocsp.msocsp.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1522949432.80153,
+      "creationDate" : 1522949432.80153,
+      "remote-hosts" : "ocsp.comodoca.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1522925312.984882,
+      "creationDate" : 1522925312.984882,
+      "remote-hosts" : "ocsp.int-x3.letsencrypt.org",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1522925310.638747,
+      "creationDate" : 1522925310.638747,
+      "remote-hosts" : "ocsp.digicert.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1522924439.944437,
+      "creationDate" : 1522924439.944437,
+      "remote-hosts" : "ocsp.pki.goog",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    }
+  ],
+  "name" : "OCSP_Sites",
+  "description" : "OCSP Sites"
+}
