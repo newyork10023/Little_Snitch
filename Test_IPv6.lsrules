@@ -1,0 +1,2156 @@
+{
+  "rules" : [
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1539148901.365503,
+      "creationDate" : 1539144969.548647,
+      "remote-hosts" : "ipv6.test-ipv6.ch",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1539148901.366433,
+      "creationDate" : 1539144964.659689,
+      "remote-hosts" : "ipv4.test-ipv6.ch",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532480727.758857,
+      "creationDate" : 1532478050.568553,
+      "remote-hosts" : "ds.v6ns.vm1.test-ipv6.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532480727.760148,
+      "creationDate" : 1532478049.395982,
+      "remote-hosts" : "mtu1280.vm1.test-ipv6.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532480727.761072,
+      "creationDate" : 1532478048.130365,
+      "remote-hosts" : "ds.vm1.test-ipv6.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532480727.76195,
+      "creationDate" : 1532478046.689036,
+      "remote-hosts" : "ipv6.vm1.test-ipv6.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532480727.762834,
+      "creationDate" : 1532478043.920842,
+      "remote-hosts" : "ipv4.vm1.test-ipv6.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532454692.567551,
+      "creationDate" : 1532454214.107963,
+      "remote-hosts" : "fallback-v4.ipv6-test.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1531866301.596564,
+      "creationDate" : 1531856664.175707,
+      "remote-hosts" : "ds.v6ns.vm2.test-ipv6.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1531866301.597661,
+      "creationDate" : 1531856661.609034,
+      "remote-hosts" : "mtu1280.vm2.test-ipv6.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1531866301.59861,
+      "creationDate" : 1531856657.22122,
+      "remote-hosts" : "ds.vm2.test-ipv6.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1531866301.59956,
+      "creationDate" : 1531856655.275032,
+      "remote-hosts" : "ipv6.vm2.test-ipv6.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1531866301.600518,
+      "creationDate" : 1531856653.239428,
+      "remote-hosts" : "ipv4.vm2.test-ipv6.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553941.525824,
+      "creationDate" : 1523553941.525824,
+      "remote-hosts" : "fallback-v6.ipv6-test.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553940.662966,
+      "creationDate" : 1523553940.662966,
+      "remote-hosts" : "v6.zone4.ipv6-test.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553940.009511,
+      "creationDate" : 1523553940.009511,
+      "remote-hosts" : "v6.zone6.ipv6-test.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553939.33901,
+      "creationDate" : 1523553939.33901,
+      "remote-hosts" : "v4.zone6.ipv6-test.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553938.287654,
+      "creationDate" : 1523553938.287654,
+      "remote-hosts" : "v6.ipv6-test.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553937.528276,
+      "creationDate" : 1523553937.528276,
+      "remote-hosts" : "v4v6.ipv6-test.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553936.240725,
+      "creationDate" : 1523553936.240725,
+      "remote-hosts" : "v4.ipv6-test.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553636.93952,
+      "creationDate" : 1523553636.93952,
+      "remote-hosts" : "ipv6.nop.hu",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553614.643731,
+      "creationDate" : 1523553614.643731,
+      "remote-hosts" : "ipv6.test-ipv6.densus88.id",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553613.604798,
+      "creationDate" : 1523553613.604798,
+      "remote-hosts" : "ipv6.test-ipv6.tld.sk",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553611.472573,
+      "creationDate" : 1523553611.472573,
+      "remote-hosts" : "ipv4.test-ipv6.densus88.id",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553609.925704,
+      "creationDate" : 1523553609.925704,
+      "remote-hosts" : "ipv4.test-ipv6.tld.sk",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553608.753785,
+      "creationDate" : 1523553608.753785,
+      "remote-hosts" : "ipv6.test-ipv6.lazypaddle.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553607.117563,
+      "creationDate" : 1523553607.117563,
+      "remote-hosts" : "ipv6only.ctbc.net.br",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553604.17249,
+      "creationDate" : 1523553604.17249,
+      "remote-hosts" : "ipv6.test-ipv6.hu",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553603.125181,
+      "creationDate" : 1523553603.125181,
+      "remote-hosts" : "ipv4.test-ipv6.lazypaddle.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553599.033708,
+      "creationDate" : 1523553599.033708,
+      "remote-hosts" : "ipv4only.ctbc.net.br",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553597.072146,
+      "creationDate" : 1523553597.072146,
+      "remote-hosts" : "ipv6.ipv6-test.ch",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553595.04451,
+      "creationDate" : 1523553595.04451,
+      "remote-hosts" : "ipv4.test-ipv6.hu",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553594.058043,
+      "creationDate" : 1523553594.058043,
+      "remote-hosts" : "ipv4.nop.hu",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553591.72314,
+      "creationDate" : 1523553591.72314,
+      "remote-hosts" : "ipv4.ipv6-test.ch",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553569.742188,
+      "creationDate" : 1523553569.742188,
+      "remote-hosts" : "ipv6.test-ipv6.no",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553559.897191,
+      "creationDate" : 1523553559.897191,
+      "remote-hosts" : "ipv4.test-ipv6.no",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553538.562016,
+      "creationDate" : 1523553538.562016,
+      "remote-hosts" : "ipv6.test-ipv6.bvconline.com.ar",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553537.806632,
+      "creationDate" : 1523553537.806632,
+      "remote-hosts" : "ipv6.test-ipv6.monash.edu",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553531.191134,
+      "creationDate" : 1523553531.191134,
+      "remote-hosts" : "ipv4.test-ipv6.bvconline.com.ar",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553530.294618,
+      "creationDate" : 1523553530.294618,
+      "remote-hosts" : "ipv4.test-ipv6.monash.edu",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553528.200199,
+      "creationDate" : 1523553528.200199,
+      "remote-hosts" : "ipv6.joram.it",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553524.734058,
+      "creationDate" : 1523553524.734058,
+      "remote-hosts" : "www.ipv6.tecpeu.com.br",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553522.878341,
+      "creationDate" : 1523553522.878341,
+      "remote-hosts" : "ipv4.joram.it",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553518.003527,
+      "creationDate" : 1523553518.003527,
+      "remote-hosts" : "ipv6.test-ipv6.vtt.net",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553507.703369,
+      "creationDate" : 1523553507.703369,
+      "remote-hosts" : "www.ipv4.tecpeu.com.br",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553507.001628,
+      "creationDate" : 1523553507.001628,
+      "remote-hosts" : "ipv4.test-ipv6.vtt.net",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553505.139232,
+      "creationDate" : 1523553505.139232,
+      "remote-hosts" : "ipv6.sixte.st",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553502.198629,
+      "creationDate" : 1523553502.198629,
+      "remote-hosts" : "ipv6.test-ipv6.ro",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553499.510809,
+      "creationDate" : 1523553499.510809,
+      "remote-hosts" : "ipv4.sixte.st",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553498.758315,
+      "creationDate" : 1523553498.758315,
+      "remote-hosts" : "test-ipv6.com.i32.test-ipv6.easyv6.net",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553497.744733,
+      "creationDate" : 1523553497.744733,
+      "remote-hosts" : "ipv6.stdio.be",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553496.809065,
+      "creationDate" : 1523553496.809065,
+      "remote-hosts" : "ipv4.test-ipv6.ro",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553493.229395,
+      "creationDate" : 1523553493.229395,
+      "remote-hosts" : "test-ipv6.com.i42.test-ipv6.easyv6.net",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553490.764663,
+      "creationDate" : 1523553490.764663,
+      "remote-hosts" : "ipv4.stdio.be",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553484.593918,
+      "creationDate" : 1523553484.593918,
+      "remote-hosts" : "ipv6.test-ipv6.cgates.lt",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553483.317959,
+      "creationDate" : 1523553483.317959,
+      "remote-hosts" : "ipv6.campaya.co.uk",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553479.385985,
+      "creationDate" : 1523553479.385985,
+      "remote-hosts" : "ipv4.test-ipv6.cgates.lt",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553478.662277,
+      "creationDate" : 1523553478.662277,
+      "remote-hosts" : "ipv4.campaya.co.uk",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553470.677739,
+      "creationDate" : 1523553470.677739,
+      "remote-hosts" : "ipv6.test-ipv6.tni-au.mil.id",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553468.641209,
+      "creationDate" : 1523553468.641209,
+      "remote-hosts" : "ipv6.test-ipv6.arbor.net",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553465.03434,
+      "creationDate" : 1523553465.03434,
+      "remote-hosts" : "ipv6.test-ipv6.azstarnet.az",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553462.614822,
+      "creationDate" : 1523553462.614822,
+      "remote-hosts" : "ipv4.test-ipv6.tni-au.mil.id",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553460.081814,
+      "creationDate" : 1523553460.081814,
+      "remote-hosts" : "ipv4.test-ipv6.arbor.net",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553455.828143,
+      "creationDate" : 1523553455.828143,
+      "remote-hosts" : "ipv4.test-ipv6.azstarnet.az",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553452.904076,
+      "creationDate" : 1523553452.904076,
+      "remote-hosts" : "ipv4.master.test-ipv6.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553450.504955,
+      "creationDate" : 1523553450.504955,
+      "remote-hosts" : "ds.v6ns.test-ipv6-vm4.comcast.net",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553448.66383,
+      "creationDate" : 1523553448.66383,
+      "remote-hosts" : "mtu1280.test-ipv6-vm4.comcast.net",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553446.924639,
+      "creationDate" : 1523553446.924639,
+      "remote-hosts" : "ds.test-ipv6-vm4.comcast.net",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553445.37247,
+      "creationDate" : 1523553445.37247,
+      "remote-hosts" : "ipv6.test-ipv6-vm4.comcast.net",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553444.147155,
+      "creationDate" : 1523553444.147155,
+      "remote-hosts" : "ipv4.test-ipv6-vm4.comcast.net",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553442.706202,
+      "creationDate" : 1523553442.706202,
+      "remote-hosts" : "ipv6.lookup.test-ipv6.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553440.39254,
+      "creationDate" : 1523553440.39254,
+      "remote-hosts" : "ipv4.lookup.test-ipv6.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553386.580974,
+      "creationDate" : 1523553386.580974,
+      "remote-hosts" : "test-ipv6.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523121288.029229,
+      "creationDate" : 1523121288.029229,
+      "remote-hosts" : "ipv6-test.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542458067.18228,
+      "creationDate" : 1542456077.814614,
+      "remote-hosts" : "ipv6.xiaoyu.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542458067.183556,
+      "creationDate" : 1542456072.911123,
+      "remote-hosts" : "ipv4.xiaoyu.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542361040.205459,
+      "creationDate" : 1542349267.914047,
+      "remote-hosts" : "www6.chappell-family.co.uk",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1539148901.376157,
+      "creationDate" : 1539144990.009444,
+      "remote-hosts" : "ipv6.test-ipv6.tld.sk",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1539148901.377158,
+      "creationDate" : 1539144985.725412,
+      "remote-hosts" : "ipv4.test-ipv6.tld.sk",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1539148901.378142,
+      "creationDate" : 1539144980.35774,
+      "remote-hosts" : "ipv6.test-ipv6.lazypaddle.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1539148901.379116,
+      "creationDate" : 1539144974.58979,
+      "remote-hosts" : "ipv6.sixte.st",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1539148901.380096,
+      "creationDate" : 1539144971.67789,
+      "remote-hosts" : "ipv4.test-ipv6.lazypaddle.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1539148901.381089,
+      "creationDate" : 1539144961.934449,
+      "remote-hosts" : "ipv4.sixte.st",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532480727.763734,
+      "creationDate" : 1532480691.755691,
+      "remote-hosts" : "ds.v6ns.vm1.test-ipv6.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532480727.764629,
+      "creationDate" : 1532480690.998743,
+      "remote-hosts" : "mtu1280.vm1.test-ipv6.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532480727.765535,
+      "creationDate" : 1532480687.959554,
+      "remote-hosts" : "ds.vm1.test-ipv6.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532480727.766435,
+      "creationDate" : 1532480686.873129,
+      "remote-hosts" : "ipv6.vm1.test-ipv6.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532480727.767377,
+      "creationDate" : 1532480684.845213,
+      "remote-hosts" : "ipv4.vm1.test-ipv6.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532480727.768261,
+      "creationDate" : 1532480662.759842,
+      "remote-hosts" : "ipv4.master.test-ipv6.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532480727.769211,
+      "creationDate" : 1532480656.074223,
+      "remote-hosts" : "ds.v6ns.vm2.test-ipv6.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532480727.770106,
+      "creationDate" : 1532480655.029228,
+      "remote-hosts" : "mtu1280.vm2.test-ipv6.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532480727.771007,
+      "creationDate" : 1532480651.346769,
+      "remote-hosts" : "ds.vm2.test-ipv6.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532480727.771937,
+      "creationDate" : 1532480650.295416,
+      "remote-hosts" : "ipv6.vm2.test-ipv6.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532480727.772866,
+      "creationDate" : 1532480649.295056,
+      "remote-hosts" : "ipv4.vm2.test-ipv6.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532480727.773802,
+      "creationDate" : 1532480648.173467,
+      "remote-hosts" : "ipv6.lookup.test-ipv6.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532480727.774752,
+      "creationDate" : 1532480645.074145,
+      "remote-hosts" : "ipv4.lookup.test-ipv6.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532465871.16809,
+      "creationDate" : 1532460457.832838,
+      "remote-hosts" : "ipv6.test-ipv6.ernet.in",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532465871.169027,
+      "creationDate" : 1532460455.098177,
+      "remote-hosts" : "ipv6.test-ipv6.freerangecloud.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532465871.169958,
+      "creationDate" : 1532460452.748981,
+      "remote-hosts" : "ipv6.test-ipv6.nl",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532465871.170902,
+      "creationDate" : 1532460450.976806,
+      "remote-hosts" : "ipv4.test-ipv6.freerangecloud.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532465871.17185,
+      "creationDate" : 1532460449.516791,
+      "remote-hosts" : "ipv6.tecpeu.com.br",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532465871.172784,
+      "creationDate" : 1532460447.629648,
+      "remote-hosts" : "ipv4.tecpeu.com.br",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532465871.17372,
+      "creationDate" : 1532460445.382736,
+      "remote-hosts" : "ipv6.test.ipv6s.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532465871.174653,
+      "creationDate" : 1532460443.834992,
+      "remote-hosts" : "ipv4.test.ipv6s.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532465871.175604,
+      "creationDate" : 1532460443.061092,
+      "remote-hosts" : "ipv6.vulndetect.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532465871.176564,
+      "creationDate" : 1532460441.798882,
+      "remote-hosts" : "ipv6.joram.it",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532465871.17751,
+      "creationDate" : 1532460439.772847,
+      "remote-hosts" : "ipv6.vulndetect.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532465871.17845,
+      "creationDate" : 1532460438.224411,
+      "remote-hosts" : "ipv4.vulndetect.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532465871.179395,
+      "creationDate" : 1532460436.460929,
+      "remote-hosts" : "ipv4.joram.it",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532465871.180354,
+      "creationDate" : 1532460435.071016,
+      "remote-hosts" : "ipv6.test-ipv6.hu",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532465871.181319,
+      "creationDate" : 1532460433.274978,
+      "remote-hosts" : "ipv4.vulndetect.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1532465871.182294,
+      "creationDate" : 1532460430.384462,
+      "remote-hosts" : "ipv4.test-ipv6.hu",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553615.513815,
+      "creationDate" : 1523553615.513815,
+      "remote-hosts" : "ipv6.ipv6-test.pl",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553612.298683,
+      "creationDate" : 1523553612.298683,
+      "remote-hosts" : "test-ipv6-dot-com-v6exp3-v6.metric.gstatic.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553610.77302,
+      "creationDate" : 1523553610.77302,
+      "remote-hosts" : "ipv4.ipv6-test.pl",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553604.965382,
+      "creationDate" : 1523553604.965382,
+      "remote-hosts" : "test-ipv6-dot-com-v6exp3-v4.metric.gstatic.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553601.827101,
+      "creationDate" : 1523553601.827101,
+      "remote-hosts" : "ipv6.test-ipv6.vyncke.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553600.873112,
+      "creationDate" : 1523553600.873112,
+      "remote-hosts" : "ipv6.test-ipv6.sin.vr.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553599.85901,
+      "creationDate" : 1523553599.85901,
+      "remote-hosts" : "ipv6.test-ipv6.hkg.vr.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553598.18088,
+      "creationDate" : 1523553598.18088,
+      "remote-hosts" : "ipv6.test-ipv6.carnet.hr",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553596.084207,
+      "creationDate" : 1523553596.084207,
+      "remote-hosts" : "ipv4.test-ipv6.vyncke.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553593.301342,
+      "creationDate" : 1523553593.301342,
+      "remote-hosts" : "ipv6.test-ipv6.ke.liquidtelecom.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553592.545127,
+      "creationDate" : 1523553592.545127,
+      "remote-hosts" : "ipv4.test-ipv6.sin.vr.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553590.971739,
+      "creationDate" : 1523553590.971739,
+      "remote-hosts" : "ipv4.test-ipv6.carnet.hr",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553589.959024,
+      "creationDate" : 1523553589.959024,
+      "remote-hosts" : "ipv4.test-ipv6.hkg.vr.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553588.943407,
+      "creationDate" : 1523553588.943407,
+      "remote-hosts" : "ipv6.v6test.snozzages.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553587.343597,
+      "creationDate" : 1523553587.343597,
+      "remote-hosts" : "ipv4.v6test.snozzages.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553584.54996,
+      "creationDate" : 1523553584.54996,
+      "remote-hosts" : "ipv6.test-ipv6-vm4.comcast.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553583.759782,
+      "creationDate" : 1523553583.759782,
+      "remote-hosts" : "ipv6.test-ipv6.si",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553581.83105,
+      "creationDate" : 1523553581.83105,
+      "remote-hosts" : "ipv6.test-ipv6.se",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553580.444803,
+      "creationDate" : 1523553580.444803,
+      "remote-hosts" : "ipv4.test-ipv6-vm4.comcast.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553579.431496,
+      "creationDate" : 1523553579.431496,
+      "remote-hosts" : "v6test.yahoo.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553578.1616,
+      "creationDate" : 1523553578.1616,
+      "remote-hosts" : "ipv4.test-ipv6.nl",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553574.364556,
+      "creationDate" : 1523553574.364556,
+      "remote-hosts" : "ipv4.test-ipv6.ke.liquidtelecom.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553573.024305,
+      "creationDate" : 1523553573.024305,
+      "remote-hosts" : "ipv4.test-ipv6.ernet.in",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553572.331049,
+      "creationDate" : 1523553572.331049,
+      "remote-hosts" : "ipv6.test-ipv6.go6.si",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553571.329893,
+      "creationDate" : 1523553571.329893,
+      "remote-hosts" : "ipv6.test-ipv6.ams.vr.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553570.501231,
+      "creationDate" : 1523553570.501231,
+      "remote-hosts" : "v4test.yahoo.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553568.981654,
+      "creationDate" : 1523553568.981654,
+      "remote-hosts" : "ipv4.test-ipv6.si",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553568.220972,
+      "creationDate" : 1523553568.220972,
+      "remote-hosts" : "ipv4.test-ipv6.se",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553567.46237,
+      "creationDate" : 1523553567.46237,
+      "remote-hosts" : "ipv6.nsx.de",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553566.207512,
+      "creationDate" : 1523553566.207512,
+      "remote-hosts" : "ipv6.jamieweb.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553565.267605,
+      "creationDate" : 1523553565.267605,
+      "remote-hosts" : "ipv4.test-ipv6.ams.vr.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553564.283288,
+      "creationDate" : 1523553564.283288,
+      "remote-hosts" : "ipv4.test-ipv6.go6.si",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553562.903386,
+      "creationDate" : 1523553562.903386,
+      "remote-hosts" : "ipv6.test-ipv6.arauc.br",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553561.465501,
+      "creationDate" : 1523553561.465501,
+      "remote-hosts" : "v6.ipv6.br",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553558.014649,
+      "creationDate" : 1523553558.014649,
+      "remote-hosts" : "ipv6.test-ipv6.jp",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553556.746167,
+      "creationDate" : 1523553556.746167,
+      "remote-hosts" : "ipv4.nsx.de",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553545.391284,
+      "creationDate" : 1523553545.391284,
+      "remote-hosts" : "ipv4.jamieweb.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553543.878051,
+      "creationDate" : 1523553543.878051,
+      "remote-hosts" : "ipv6.test-ipv6.fratec.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553536.766016,
+      "creationDate" : 1523553536.766016,
+      "remote-hosts" : "ipv4.test-ipv6.cmd.net.br",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553535.751621,
+      "creationDate" : 1523553535.751621,
+      "remote-hosts" : "ipv4.test-ipv6.arauc.br",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553534.976383,
+      "creationDate" : 1523553534.976383,
+      "remote-hosts" : "ipv6.test-ipv6.polkam.go.id",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553534.328932,
+      "creationDate" : 1523553534.328932,
+      "remote-hosts" : "v4.ipv6.br",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553533.057815,
+      "creationDate" : 1523553533.057815,
+      "remote-hosts" : "ipv4.test-ipv6.jp",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553532.024438,
+      "creationDate" : 1523553532.024438,
+      "remote-hosts" : "v6.test-ipv6.do.ayepv6.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553529.633027,
+      "creationDate" : 1523553529.633027,
+      "remote-hosts" : "ip6.aa.net.uk",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553529.058795,
+      "creationDate" : 1523553529.058795,
+      "remote-hosts" : "v4.test-ipv6.do.ayepv6.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553527.440814,
+      "creationDate" : 1523553527.440814,
+      "remote-hosts" : "ipv6.test-ipv6.showmyip.ca",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553526.658777,
+      "creationDate" : 1523553526.658777,
+      "remote-hosts" : "ipv6.test-ipv6.cz",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553525.649835,
+      "creationDate" : 1523553525.649835,
+      "remote-hosts" : "ipv4.test-ipv6.polkam.go.id",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553523.591691,
+      "creationDate" : 1523553523.591691,
+      "remote-hosts" : "ipv6.testipv6.de",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553522.240175,
+      "creationDate" : 1523553522.240175,
+      "remote-hosts" : "ipv6.ipv6ready.me",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553521.596764,
+      "creationDate" : 1523553521.596764,
+      "remote-hosts" : "ip4.aa.net.uk",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553520.781642,
+      "creationDate" : 1523553520.781642,
+      "remote-hosts" : "ipv4.test-ipv6.showmyip.ca",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553520.028921,
+      "creationDate" : 1523553520.028921,
+      "remote-hosts" : "ipv6.test-ipv6.alpinedc.ch",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553518.764267,
+      "creationDate" : 1523553518.764267,
+      "remote-hosts" : "ipv4.testipv6.de",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553517.243965,
+      "creationDate" : 1523553517.243965,
+      "remote-hosts" : "ipv4.test-ipv6.fratec.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553516.326327,
+      "creationDate" : 1523553516.326327,
+      "remote-hosts" : "ipv6.radioradicale.it",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553513.695945,
+      "creationDate" : 1523553513.695945,
+      "remote-hosts" : "ipv4.ipv6ready.me",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553512.486722,
+      "creationDate" : 1523553512.486722,
+      "remote-hosts" : "ipv4.test-ipv6.cz",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553511.724215,
+      "creationDate" : 1523553511.724215,
+      "remote-hosts" : "ip4.8n1.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553510.878497,
+      "creationDate" : 1523553510.878497,
+      "remote-hosts" : "ipv4.test-ipv6.alpinedc.ch",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553510.166442,
+      "creationDate" : 1523553510.166442,
+      "remote-hosts" : "ipv6.test-ipv6.noroutetohost.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553509.487261,
+      "creationDate" : 1523553509.487261,
+      "remote-hosts" : "ipv6.excathedra.co",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553508.693177,
+      "creationDate" : 1523553508.693177,
+      "remote-hosts" : "ipv4.radioradicale.it",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553506.15161,
+      "creationDate" : 1523553506.15161,
+      "remote-hosts" : "ipv4.test-ipv6.noroutetohost.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553504.127183,
+      "creationDate" : 1523553504.127183,
+      "remote-hosts" : "ipv4.excathedra.co",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553502.926871,
+      "creationDate" : 1523553502.926871,
+      "remote-hosts" : "ipv6.test-ipv6.com.au",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553501.280641,
+      "creationDate" : 1523553501.280641,
+      "remote-hosts" : "ipv6.test-ipv6.epic.network",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553500.333407,
+      "creationDate" : 1523553500.333407,
+      "remote-hosts" : "ipv6.test-ipv6-vm3.comcast.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553496.224769,
+      "creationDate" : 1523553496.224769,
+      "remote-hosts" : "ipv6.ziggoforum.nl",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553495.431409,
+      "creationDate" : 1523553495.431409,
+      "remote-hosts" : "ipv6.test-ipv6.zw.liquidtelecom.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553494.187551,
+      "creationDate" : 1523553494.187551,
+      "remote-hosts" : "v6-only.steffann.nl",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553492.166796,
+      "creationDate" : 1523553492.166796,
+      "remote-hosts" : "ipv4.test-ipv6.epic.network",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553489.648039,
+      "creationDate" : 1523553489.648039,
+      "remote-hosts" : "ipv4.test-ipv6-vm3.comcast.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553488.328899,
+      "creationDate" : 1523553488.328899,
+      "remote-hosts" : "ipv4.test-ipv6.com.au",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553487.336976,
+      "creationDate" : 1523553487.336976,
+      "remote-hosts" : "ipv4.ziggoforum.nl",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553486.481327,
+      "creationDate" : 1523553486.481327,
+      "remote-hosts" : "v4-only.steffann.nl",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553485.604662,
+      "creationDate" : 1523553485.604662,
+      "remote-hosts" : "ipv6-test-ipv6.eurobilltracker.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553481.95045,
+      "creationDate" : 1523553481.95045,
+      "remote-hosts" : "ipv4.test-ipv6.zw.liquidtelecom.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553481.241417,
+      "creationDate" : 1523553481.241417,
+      "remote-hosts" : "ipv6.duiadns.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553480.432437,
+      "creationDate" : 1523553480.432437,
+      "remote-hosts" : "v6.test-ipv6.vu.ayepv6.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553477.90163,
+      "creationDate" : 1523553477.90163,
+      "remote-hosts" : "ipv6.tunnelbroker.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553476.721947,
+      "creationDate" : 1523553476.721947,
+      "remote-hosts" : "ipv4-test-ipv6.eurobilltracker.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553475.526517,
+      "creationDate" : 1523553475.526517,
+      "remote-hosts" : "ipv6.test-ipv6.roedu.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553474.6806,
+      "creationDate" : 1523553474.6806,
+      "remote-hosts" : "ipv6.test-ipv6.cl",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553473.963579,
+      "creationDate" : 1523553473.963579,
+      "remote-hosts" : "ipv4.duiadns.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553473.249886,
+      "creationDate" : 1523553473.249886,
+      "remote-hosts" : "v4.test-ipv6.vu.ayepv6.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553471.993542,
+      "creationDate" : 1523553471.993542,
+      "remote-hosts" : "ipv4.tunnelbroker.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553467.936755,
+      "creationDate" : 1523553467.936755,
+      "remote-hosts" : "ipv6.duplimaster.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553467.177839,
+      "creationDate" : 1523553467.177839,
+      "remote-hosts" : "ipv6.test-ipv6.csclub.uwaterloo.ca",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553464.387289,
+      "creationDate" : 1523553464.387289,
+      "remote-hosts" : "ipv6.test-ipv6.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553463.379648,
+      "creationDate" : 1523553463.379648,
+      "remote-hosts" : "test6.vyncke.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553461.600452,
+      "creationDate" : 1523553461.600452,
+      "remote-hosts" : "ipv4.test-ipv6.roedu.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553460.722224,
+      "creationDate" : 1523553460.722224,
+      "remote-hosts" : "ipv4.test-ipv6.cl",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553459.084899,
+      "creationDate" : 1523553459.084899,
+      "remote-hosts" : "ipv4.duplimaster.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553457.928223,
+      "creationDate" : 1523553457.928223,
+      "remote-hosts" : "ipv4.test-ipv6.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553456.788792,
+      "creationDate" : 1523553456.788792,
+      "remote-hosts" : "ipv4.test-ipv6.csclub.uwaterloo.ca",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553454.417195,
+      "creationDate" : 1523553454.417195,
+      "remote-hosts" : "test4.vyncke.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523553451.505669,
+      "creationDate" : 1523553451.505669,
+      "remote-hosts" : "test-ipv6.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542361040.229189,
+      "creationDate" : 1542347811.773636,
+      "remote-hosts" : "v6.uk.ipv6-test.com",
+      "ports" : "8080",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542361040.230428,
+      "creationDate" : 1542347809.739129,
+      "remote-hosts" : "v4.uk.ipv6-test.com",
+      "ports" : "8080",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542361040.231692,
+      "creationDate" : 1542323578.177533,
+      "remote-hosts" : "v4.ca.ipv6-test.com",
+      "ports" : "8080",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542361040.232947,
+      "creationDate" : 1542323574.736006,
+      "remote-hosts" : "v6.ca.ipv6-test.com",
+      "ports" : "8080",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    }
+  ],
+  "name" : "Test_IPv6",
+  "description" : "Test_IPv6"
+}
