@@ -14,6 +14,66 @@
       "owner" : "me",
       "action" : "allow",
       "protocol" : "tcp",
+      "modificationDate" : 1542458067.177303,
+      "creationDate" : 1542456227.954699,
+      "remote-hosts" : "v6.uk.ipv6-test.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542458067.178541,
+      "creationDate" : 1542456213.050197,
+      "remote-hosts" : "v4.uk.ipv6-test.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542361040.195584,
+      "creationDate" : 1542348441.834012,
+      "remote-hosts" : "www.ipv6now.com.au",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542361040.200524,
+      "creationDate" : 1542323692.93897,
+      "remote-hosts" : "v6.ca.ipv6-test.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542361040.201749,
+      "creationDate" : 1542323680.419612,
+      "remote-hosts" : "v4.ca.ipv6-test.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542361040.204216,
+      "creationDate" : 1542323288.666352,
+      "remote-hosts" : "www.ipv6-test.com",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
       "modificationDate" : 1539148901.366433,
       "creationDate" : 1539144964.659689,
       "remote-hosts" : "ipv4.test-ipv6.ch",
