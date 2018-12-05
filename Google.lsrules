@@ -24,6 +24,16 @@
       "owner" : "me",
       "action" : "allow",
       "protocol" : "tcp",
+      "modificationDate" : 1544036237.315365,
+      "creationDate" : 1544011829.531071,
+      "remote-hosts" : "s2.googleusercontent.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
       "modificationDate" : 1544036097.821717,
       "creationDate" : 1543976277.148088,
       "remote-hosts" : "gp3.googleusercontent.com",
