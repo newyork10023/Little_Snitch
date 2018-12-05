@@ -1,0 +1,161 @@
+{
+  "rules" : [
+    {
+      "creationDate" : 1542172681.559463,
+      "process" : "any",
+      "owner" : "me",
+      "modificationDate" : 1542186384.839056,
+      "remote-hosts" : "ads.pubmatic.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1538096244.775453,
+      "process" : "any",
+      "owner" : "me",
+      "modificationDate" : 1538113076.488869,
+      "remote-hosts" : "adservice.google.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1543009049.932088,
+      "process" : "any",
+      "owner" : "me",
+      "modificationDate" : 1543220184.720939,
+      "remote-domains" : "analytics.yahoo.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1531886789.235718,
+      "process" : "any",
+      "owner" : "me",
+      "modificationDate" : 1531886789.235718,
+      "remote-domains" : "adssettings.google.com",
+      "action" : "deny"
+    },
+    {
+      "owner" : "me",
+      "protocol" : "tcp",
+      "action" : "deny",
+      "modificationDate" : 1524173405.603801,
+      "creationDate" : 1524173296.83198,
+      "remote-domains" : "addthis.com",
+      "process" : "any"
+    },
+    {
+      "owner" : "me",
+      "protocol" : "tcp",
+      "action" : "deny",
+      "modificationDate" : 1524173417.480046,
+      "creationDate" : 1524173286.918004,
+      "remote-domains" : "newrelic.com",
+      "process" : "any"
+    },
+    {
+      "owner" : "me",
+      "protocol" : "tcp",
+      "action" : "deny",
+      "modificationDate" : 1524173441.851741,
+      "creationDate" : 1524173266.86595,
+      "remote-domains" : "bing.com",
+      "process" : "any"
+    },
+    {
+      "creationDate" : 1543009053.021641,
+      "process" : "any",
+      "owner" : "me",
+      "modificationDate" : 1543220164.289672,
+      "remote-domains" : "advertising.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1542172678.379702,
+      "process" : "any",
+      "owner" : "me",
+      "modificationDate" : 1542186422.9774,
+      "remote-domains" : "googlesyndication.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1542172671.23213,
+      "process" : "any",
+      "owner" : "me",
+      "modificationDate" : 1542186307.666491,
+      "remote-domains" : "smartadserver.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1542126466.00566,
+      "process" : "any",
+      "owner" : "me",
+      "modificationDate" : 1542150395.278877,
+      "remote-domains" : "google-analytics.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1542120856.866448,
+      "process" : "any",
+      "owner" : "me",
+      "modificationDate" : 1542150839.920786,
+      "remote-domains" : "doubleclick.net",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1542019323.243682,
+      "process" : "any",
+      "owner" : "me",
+      "modificationDate" : 1542021277.735681,
+      "remote-domains" : "amazon-adsystem.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1523723950.20275,
+      "process" : "any",
+      "owner" : "me",
+      "modificationDate" : 1527144896.808767,
+      "remote-domains" : "twitter.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1523723913.534228,
+      "process" : "any",
+      "owner" : "me",
+      "modificationDate" : 1527144908.330831,
+      "remote-domains" : "facebook.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1522977438.29996,
+      "process" : "any",
+      "owner" : "me",
+      "modificationDate" : 1527144917.305412,
+      "remote-domains" : "googletagmanager.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1522977436.691311,
+      "process" : "any",
+      "owner" : "me",
+      "modificationDate" : 1527144929.617456,
+      "remote-domains" : "facebook.net",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1522977435.163835,
+      "process" : "any",
+      "owner" : "me",
+      "modificationDate" : 1527144938.040123,
+      "remote-domains" : "ads-twitter.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1522977422.507788,
+      "process" : "any",
+      "owner" : "me",
+      "modificationDate" : 1531776894.415395,
+      "remote-domains" : "googletagservices.com",
+      "action" : "deny"
+    }
+  ],
+  "name" : "Block_All_All",
+  "description" : ""
+}
