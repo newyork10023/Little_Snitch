@@ -1,0 +1,356 @@
+{
+  "rules" : [
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1544036097.816656,
+      "creationDate" : 1544006951.297825,
+      "remote-hosts" : "mozilla.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542516472.282355,
+      "creationDate" : 1542494994.435831,
+      "remote-hosts" : "www.mozilla.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542264056.38383,
+      "creationDate" : 1542242406.868538,
+      "remote-hosts" : "mozorg.cdn.mozilla.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542264056.385097,
+      "creationDate" : 1542242400.462449,
+      "remote-hosts" : "prod-cdn.sumo.mozilla.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542264056.386384,
+      "creationDate" : 1542242397.73109,
+      "remote-hosts" : "static-media-prod-cdn.sumo.mozilla.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542264056.387689,
+      "creationDate" : 1542242394.530193,
+      "remote-hosts" : "support.mozilla.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542150516.304839,
+      "creationDate" : 1542147368.864533,
+      "remote-hosts" : "bugzilla.mozilla.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1541201951.482131,
+      "creationDate" : 1541018255.191801,
+      "remote-hosts" : "mxr.mozilla.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1541201951.486078,
+      "creationDate" : 1541016730.17502,
+      "remote-hosts" : "blog.mozilla.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1539144649.128582,
+      "creationDate" : 1539141652.518385,
+      "remote-hosts" : "addons.thunderbird.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1538166690.32003,
+      "creationDate" : 1538158155.440293,
+      "remote-hosts" : "ftp.mozilla.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1538156460.353618,
+      "creationDate" : 1538154496.154972,
+      "remote-hosts" : "activity-stream-icons.services.mozilla.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1538156460.354606,
+      "creationDate" : 1538154314.107022,
+      "remote-hosts" : "versioncheck.addons.mozilla.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1530630570.581783,
+      "creationDate" : 1530626679.943124,
+      "remote-hosts" : "firefox.settings.services.mozilla.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1530630570.582976,
+      "creationDate" : 1530626677.105135,
+      "remote-hosts" : "blocklists.settings.services.mozilla.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1530577325.905665,
+      "creationDate" : 1530560081.747211,
+      "remote-hosts" : "addons-discovery.cdn.mozilla.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1530577325.906843,
+      "creationDate" : 1530560079.494859,
+      "remote-hosts" : "discovery.addons.mozilla.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1530577325.907975,
+      "creationDate" : 1530558643.190137,
+      "remote-hosts" : "accounts-static.cdn.mozilla.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1530577332.416653,
+      "creationDate" : 1530558640.907653,
+      "remote-hosts" : "accounts.firefox.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1530547435.878404,
+      "creationDate" : 1530521737.956214,
+      "remote-hosts" : "shavar.services.mozilla.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1527509438.962138,
+      "creationDate" : 1527490712.087792,
+      "remote-hosts" : "search.services.mozilla.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1527146655.964092,
+      "creationDate" : 1527146099.42955,
+      "remote-hosts" : "push.services.mozilla.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1527146655.973234,
+      "creationDate" : 1527145960.641752,
+      "remote-hosts" : "webextensions.settings.services.mozilla.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1527146655.974365,
+      "creationDate" : 1527145955.259333,
+      "remote-hosts" : "sync-544-us-west-2.sync.services.mozilla.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1524328337.400693,
+      "creationDate" : 1524328337.400693,
+      "remote-hosts" : "addons-amo.cdn.mozilla.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1524328333.680592,
+      "creationDate" : 1524328333.680592,
+      "remote-hosts" : "addons.mozilla.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1524171512.747547,
+      "creationDate" : 1524171512.747547,
+      "remote-hosts" : "tracking-protection.cdn.mozilla.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1522950118.950804,
+      "creationDate" : 1522950118.950804,
+      "remote-hosts" : "content-signature.cdn.mozilla.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1522950117.267577,
+      "creationDate" : 1522950117.267577,
+      "remote-hosts" : "versioncheck-bg.addons.mozilla.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1522950109.422494,
+      "creationDate" : 1522950109.422494,
+      "remote-hosts" : "services.addons.mozilla.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1522949701.669741,
+      "creationDate" : 1522949701.669741,
+      "remote-hosts" : "aus5.mozilla.org",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1522949646.045415,
+      "creationDate" : 1522949646.045415,
+      "remote-hosts" : "api.accounts.firefox.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1522949386.258103,
+      "creationDate" : 1522949386.258103,
+      "remote-hosts" : "snippets.cdn.mozilla.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1522925315.190388,
+      "creationDate" : 1522925315.190388,
+      "remote-hosts" : "profile.accounts.firefox.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1522923135.864948,
+      "creationDate" : 1522923135.864948,
+      "remote-hosts" : "addons.cdn.mozilla.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    }
+  ],
+  "name" : "Mozilla",
+  "description" : ""
+}
