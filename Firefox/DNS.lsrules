@@ -1,0 +1,86 @@
+{
+  "rules" : [
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1541714669.735351,
+      "creationDate" : 1541712205.757,
+      "remote-hosts" : "docs.gandi.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1541714669.73659,
+      "creationDate" : 1541712202.21125,
+      "remote-hosts" : "wiki.gandi.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1541335014.490017,
+      "creationDate" : 1541328930.652207,
+      "remote-hosts" : "id.gandi.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1541335014.490843,
+      "creationDate" : 1541328927.79611,
+      "remote-hosts" : "admin.gandi.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1541335014.491679,
+      "creationDate" : 1541328922.158645,
+      "remote-hosts" : "news.gandi.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1541335014.492539,
+      "creationDate" : 1541328917.992803,
+      "remote-hosts" : "www.gandi.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1541335014.493377,
+      "creationDate" : 1541327953.574505,
+      "remote-hosts" : "forums.he.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1541335014.494217,
+      "creationDate" : 1541327951.16363,
+      "remote-hosts" : "www.tunnelbroker.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    }
+  ],
+  "name" : "DNS",
+  "description" : ""
+}
