@@ -1,0 +1,146 @@
+{
+  "rules" : [
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542361040.214167,
+      "creationDate" : 1542335272.798732,
+      "remote-hosts" : "m.stripe.network",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542186173.869028,
+      "creationDate" : 1542171463.465666,
+      "remote-hosts" : "cdn.ravenjs.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1541845408.839255,
+      "creationDate" : 1541843282.219538,
+      "remote-hosts" : "forms.hsforms.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1541845408.84009,
+      "creationDate" : 1541843225.042394,
+      "remote-hosts" : "js.hsforms.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1541840490.794244,
+      "creationDate" : 1541826881.386276,
+      "remote-hosts" : "js.stripe.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1531116353.478921,
+      "creationDate" : 1531112284.707121,
+      "remote-hosts" : "sstatic.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1530623927.764183,
+      "creationDate" : 1530623898.798335,
+      "remote-hosts" : "maxcdn.bootstrapcdn.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1530623927.765381,
+      "creationDate" : 1530623896.765479,
+      "remote-hosts" : "code.jquery.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1530547467.47249,
+      "creationDate" : 1530524931.050516,
+      "remote-hosts" : "ajax.cloudflare.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523135567.253822,
+      "creationDate" : 1523135567.253822,
+      "remote-hosts" : "cdnjs.cloudflare.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542150535.192226,
+      "creationDate" : 1542147361.782361,
+      "ports" : "443",
+      "remote-domains" : "bp.blogspot.com",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1538113156.297314,
+      "creationDate" : 1538109937.066852,
+      "ports" : "443",
+      "remote-domains" : "cloudfront.net",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1530631089.995595,
+      "creationDate" : 1530625720.051666,
+      "ports" : "443",
+      "remote-domains" : "rackcdn.com",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1530630549.108268,
+      "creationDate" : 1530624647.502736,
+      "ports" : "443",
+      "remote-domains" : "wp.com",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    }
+  ],
+  "name" : "CDNs",
+  "description" : ""
+}
