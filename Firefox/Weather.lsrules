@@ -1,0 +1,176 @@
+{
+  "rules" : [
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542021217.747894,
+      "creationDate" : 1542019375.170984,
+      "remote-hosts" : "img.en25.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1541335014.496783,
+      "creationDate" : 1541311045.608575,
+      "remote-hosts" : "weather.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1538153565.334001,
+      "creationDate" : 1538152781.790154,
+      "remote-hosts" : "licensing.bitmovin.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1538153565.334931,
+      "creationDate" : 1538152773.779321,
+      "remote-hosts" : "apv-static.minute.ly",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1538153565.335887,
+      "creationDate" : 1538152771.004107,
+      "remote-hosts" : "snippet.minute.ly",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1538153565.336895,
+      "creationDate" : 1538152764.756109,
+      "remote-hosts" : "apv-launcher.minute.ly",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1538096542.85623,
+      "creationDate" : 1538095898.863871,
+      "remote-hosts" : "nqs.nice264.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1530547503.58598,
+      "creationDate" : 1530529228.922925,
+      "remote-hosts" : "ak-accuweather.akamaized.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1527470967.25834,
+      "creationDate" : 1527470954.949081,
+      "remote-hosts" : "ovp.iris.tv",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523153445.730035,
+      "creationDate" : 1523153445.730035,
+      "remote-hosts" : "ooyalaeast.streaming.mediaservices.windows.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523153345.78701,
+      "creationDate" : 1523153345.78701,
+      "remote-hosts" : "smartplugin.youbora.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523016993.549499,
+      "creationDate" : 1523016993.549499,
+      "remote-hosts" : "maptiles.accuweather.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523016974.715018,
+      "creationDate" : 1523016974.715018,
+      "remote-hosts" : "onetile.accuweather.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523016956.900528,
+      "creationDate" : 1523016956.900528,
+      "remote-hosts" : "sirocco.accuweather.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523016954.126754,
+      "creationDate" : 1523016954.126754,
+      "remote-hosts" : "accuweather.brightspotcdn.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1523016951.574358,
+      "creationDate" : 1523016951.574358,
+      "remote-hosts" : "www.accuweather.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1522976274.916951,
+      "creationDate" : 1522976274.916951,
+      "remote-hosts" : "vortex.accuweather.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    }
+  ],
+  "name" : "Weather",
+  "description" : ""
+}
