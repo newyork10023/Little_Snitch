@@ -1,0 +1,66 @@
+{
+  "rules" : [
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542086898.161734,
+      "creationDate" : 1542078122.152896,
+      "remote-hosts" : "web.whatsapp.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542086898.163003,
+      "creationDate" : 1542078087.501305,
+      "remote-hosts" : "whatsapp.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542086898.164279,
+      "creationDate" : 1542078077.458163,
+      "remote-hosts" : "static.xx.fbcdn.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542086898.165531,
+      "creationDate" : 1542078051.240815,
+      "remote-hosts" : "www-cdn.whatsapp.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542086898.166816,
+      "creationDate" : 1542078032.163122,
+      "remote-hosts" : "blog.whatsapp.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1542086898.168095,
+      "creationDate" : 1542078029.551356,
+      "remote-hosts" : "www.whatsapp.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    }
+  ],
+  "name" : "WhatsApp",
+  "description" : ""
+}

@@ -1,0 +1,96 @@
+{
+  "rules" : [
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1524415917.478451,
+      "creationDate" : 1524415917.478451,
+      "remote-hosts" : "payments.timewarnercable.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1524415891.444263,
+      "creationDate" : 1524415891.444263,
+      "remote-hosts" : "www.timewarnercable.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1524415837.758657,
+      "creationDate" : 1524415837.758657,
+      "remote-hosts" : "advisor2.spectrum.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1524415829.22066,
+      "creationDate" : 1524415829.22066,
+      "remote-hosts" : "www.spectrum.net",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1524415826.480447,
+      "creationDate" : 1524415826.480447,
+      "remote-hosts" : "tridentity.timewarnercable.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1524415823.408928,
+      "creationDate" : 1524415823.408928,
+      "remote-hosts" : "myservices.timewarnercable.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1524415627.882305,
+      "creationDate" : 1524415627.882305,
+      "remote-hosts" : "apps.coned.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1524415621.355674,
+      "creationDate" : 1524415621.355674,
+      "remote-hosts" : "www.coned.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    },
+    {
+      "owner" : "me",
+      "action" : "allow",
+      "protocol" : "tcp",
+      "modificationDate" : 1524415618.616741,
+      "creationDate" : 1524415618.616741,
+      "remote-hosts" : "coned.com",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+    }
+  ],
+  "name" : "Bills",
+  "description" : ""
+}
