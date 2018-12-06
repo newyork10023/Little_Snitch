@@ -1,6 +1,76 @@
 {
   "rules" : [
-    {
+  {
+    "owner" : "me",
+    "action" : "allow",
+    "protocol" : "tcp",
+    "modificationDate" : 1523142515.828768,
+    "creationDate" : 1523142515.828768,
+    "remote-hosts" : "anycast.tunnelbroker.net",
+    "ports" : "443",
+    "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+  },
+  {
+    "owner" : "me",
+    "action" : "allow",
+    "protocol" : "tcp",
+    "modificationDate" : 1523142352.777421,
+    "creationDate" : 1523142352.777421,
+    "remote-hosts" : "tunnelbroker.net",
+    "ports" : "443",
+    "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+  },
+  {
+"owner" : "me",
+"action" : "allow",
+"protocol" : "tcp",
+"modificationDate" : 1543867280.903456,
+"creationDate" : 1543792295.686686,
+"remote-hosts" : "faq.he.net",
+"ports" : "443",
+"process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+},
+{
+"owner" : "me",
+"action" : "allow",
+"protocol" : "tcp",
+"modificationDate" : 1543867280.913585,
+"creationDate" : 1543739293.982462,
+"remote-hosts" : "bgp.he.net",
+"ports" : "443",
+"process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+},
+{
+"owner" : "me",
+"action" : "allow",
+"protocol" : "tcp",
+"modificationDate" : 1523143592.616204,
+"creationDate" : 1523143592.616204,
+"remote-hosts" : "dns.he.net",
+"ports" : "443",
+"process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+},
+{
+"owner" : "me",
+"action" : "allow",
+"protocol" : "tcp",
+"modificationDate" : 1523142357.055912,
+"creationDate" : 1523142357.055912,
+"remote-hosts" : "ipv6.he.net",
+"ports" : "443",
+"process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+},
+{
+"owner" : "any",
+"action" : "allow",
+"protocol" : "tcp",
+"modificationDate" : 1544098328.622226,
+"creationDate" : 1544098328.622226,
+"remote-hosts" : "forums.he.net",
+"ports" : "443",
+"process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox"
+},
+{
       "owner" : "me",
       "action" : "allow",
       "protocol" : "tcp",
