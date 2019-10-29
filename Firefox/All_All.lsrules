@@ -1,0 +1,185 @@
+{
+  "rules" : [
+    {
+      "creationDate" : 1544042733.93821,
+      "process" : "any",
+      "owner" : "any",
+      "modificationDate" : 1544042733.93821,
+      "remote-hosts" : "ads.pubmatic.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1544042733.93821,
+      "process" : "any",
+      "owner" : "any",
+      "modificationDate" : 1544042733.93821,
+      "remote-hosts" : "adservice.google.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1544042733.93821,
+      "process" : "any",
+      "owner" : "any",
+      "modificationDate" : 1544042733.93821,
+      "remote-domains" : "adssettings.google.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1544042733.93821,
+      "process" : "any",
+      "owner" : "any",
+      "modificationDate" : 1544042733.93821,
+      "remote-domains" : "analytics.yahoo.com",
+      "action" : "deny"
+    },
+    {
+      "owner" : "any",
+      "protocol" : "tcp",
+      "action" : "deny",
+      "modificationDate" : 1544042733.93821,
+      "creationDate" : 1544042733.93821,
+      "remote-domains" : "addthis.com",
+      "process" : "any"
+    },
+    {
+      "owner" : "any",
+      "protocol" : "tcp",
+      "action" : "deny",
+      "modificationDate" : 1544042733.93821,
+      "creationDate" : 1544042733.93821,
+      "remote-domains" : "bing.com",
+      "process" : "any"
+    },
+    {
+      "owner" : "any",
+      "protocol" : "tcp",
+      "action" : "deny",
+      "modificationDate" : 1544042733.93821,
+      "creationDate" : 1544042733.93821,
+      "remote-domains" : "newrelic.com",
+      "process" : "any"
+    },
+    {
+      "creationDate" : 1554339673.828338,
+      "process" : "any",
+      "owner" : "me",
+      "modificationDate" : 1554996393.459284,
+      "remote-domains" : "adready.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1545768985.070799,
+      "process" : "any",
+      "owner" : "me",
+      "modificationDate" : 1545769264.849362,
+      "remote-domains" : "googleadservices.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1552827912.584825,
+      "process" : "any",
+      "owner" : "me",
+      "modificationDate" : 1552827912.584825,
+      "remote-domains" : "scorecardresearch.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1544042733.93821,
+      "process" : "any",
+      "owner" : "any",
+      "modificationDate" : 1544042733.93821,
+      "remote-domains" : "ads-twitter.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1544042733.93821,
+      "process" : "any",
+      "owner" : "any",
+      "modificationDate" : 1544042733.93821,
+      "remote-domains" : "advertising.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1544042733.93821,
+      "process" : "any",
+      "owner" : "any",
+      "modificationDate" : 1544042733.93821,
+      "remote-domains" : "amazon-adsystem.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1544042733.93821,
+      "process" : "any",
+      "owner" : "any",
+      "modificationDate" : 1544042733.93821,
+      "remote-domains" : "doubleclick.net",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1544042733.93821,
+      "process" : "any",
+      "owner" : "any",
+      "modificationDate" : 1544042733.93821,
+      "remote-domains" : "facebook.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1544042733.93821,
+      "process" : "any",
+      "owner" : "any",
+      "modificationDate" : 1544042733.93821,
+      "remote-domains" : "facebook.net",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1544042733.93821,
+      "process" : "any",
+      "owner" : "any",
+      "modificationDate" : 1544042733.93821,
+      "remote-domains" : "google-analytics.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1544042733.93821,
+      "process" : "any",
+      "owner" : "any",
+      "modificationDate" : 1544042733.93821,
+      "remote-domains" : "googlesyndication.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1544042733.93821,
+      "process" : "any",
+      "owner" : "any",
+      "modificationDate" : 1544042733.93821,
+      "remote-domains" : "googletagmanager.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1544042733.93821,
+      "process" : "any",
+      "owner" : "any",
+      "modificationDate" : 1544042733.93821,
+      "remote-domains" : "googletagservices.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1544042733.93821,
+      "process" : "any",
+      "owner" : "any",
+      "modificationDate" : 1544042733.93821,
+      "remote-domains" : "smartadserver.com",
+      "action" : "deny"
+    },
+    {
+      "creationDate" : 1544042733.93821,
+      "process" : "any",
+      "owner" : "any",
+      "modificationDate" : 1546934715.863726,
+      "remote-domains" : "twitter.com",
+      "action" : "deny"
+    }
+  ],
+  "name" : "Block_All_All",
+  "description" : "Block All All"
+}
