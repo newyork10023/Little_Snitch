@@ -1,0 +1,216 @@
+{
+  "description" : "AnyProcess-AllowOut-OCSPsites",
+  "name" : "AnyProcess-AllowOut-OCSPsites",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1578445729.155163,
+      "modificationDate" : 1578445915.936533,
+      "owner" : "any",
+      "ports" : "80",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote-hosts" : "isrg.trustid.ocsp.identrust.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1578445474.0274639,
+      "modificationDate" : 1578445474.0274639,
+      "owner" : "any",
+      "ports" : "80",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.affirmtrust.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1578445496.4759221,
+      "modificationDate" : 1578445496.4759221,
+      "owner" : "any",
+      "ports" : "80",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1578445836.037919,
+      "modificationDate" : 1578445836.037919,
+      "owner" : "any",
+      "ports" : "80",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.comodoca.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1578445836.037919,
+      "modificationDate" : 1578445836.037919,
+      "owner" : "any",
+      "ports" : "80",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.comodoca4.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1578445584.8549418,
+      "modificationDate" : 1578445584.8549418,
+      "owner" : "any",
+      "ports" : "80",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.digicert.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1578445584.8549418,
+      "modificationDate" : 1578445584.8549418,
+      "owner" : "any",
+      "ports" : "80",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.entrust.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1578445584.8549418,
+      "modificationDate" : 1578445584.8549418,
+      "owner" : "any",
+      "ports" : "80",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.globalsign.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1578445584.8549418,
+      "modificationDate" : 1578445584.8549418,
+      "owner" : "any",
+      "ports" : "80",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.godaddy.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1578445836.037919,
+      "modificationDate" : 1578445836.037919,
+      "owner" : "any",
+      "ports" : "80",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.int-x3.letsencrypt.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1578445584.8549418,
+      "modificationDate" : 1578445584.8549418,
+      "owner" : "any",
+      "ports" : "80",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.msocsp.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1578445584.8549418,
+      "modificationDate" : 1578445584.8549418,
+      "owner" : "any",
+      "ports" : "80",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.pki.goog"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1578445584.8549418,
+      "modificationDate" : 1578445584.8549418,
+      "owner" : "any",
+      "ports" : "80",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.quovadisglobal.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1578445584.8549418,
+      "modificationDate" : 1578445584.8549418,
+      "owner" : "any",
+      "ports" : "80",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.sca1b.amazontrust.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1578445796.646122,
+      "modificationDate" : 1578445915.9370332,
+      "owner" : "any",
+      "ports" : "80",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.sectigo.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1578445584.8549418,
+      "modificationDate" : 1578445584.8549418,
+      "owner" : "any",
+      "ports" : "80",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.ssl.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1578445584.8549418,
+      "modificationDate" : 1578445584.8549418,
+      "owner" : "any",
+      "ports" : "80",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.starfieldtech.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1578445584.8549418,
+      "modificationDate" : 1578445584.8549418,
+      "owner" : "any",
+      "ports" : "80",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.trustwave.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1578445584.8549418,
+      "modificationDate" : 1578445584.8549418,
+      "owner" : "any",
+      "ports" : "80",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.usertrust.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1578445567.534133,
+      "modificationDate" : 1578445567.534133,
+      "owner" : "any",
+      "ports" : "80",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.ws.symantec.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1578445554.6537549,
+      "modificationDate" : 1578445554.6537549,
+      "owner" : "any",
+      "ports" : "80",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp2.globalsign.com"
+    }
+  ]
+}
