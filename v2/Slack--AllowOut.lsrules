@@ -1,0 +1,56 @@
+{
+  "description" : "Slack--AllowOut",
+  "name" : "Slack--AllowOut",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1522490024.034234,
+      "modificationDate" : 1522490024.034234,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Slack.app\/Contents\/MacOS\/Slack",
+      "protocol" : "tcp",
+      "remote-domains" : "s3-us-west-2.amazonaws.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1522489341.9589071,
+      "modificationDate" : 1522489341.9589071,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Slack.app\/Contents\/MacOS\/Slack",
+      "protocol" : "tcp",
+      "remote-domains" : "slack-edge.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1522489900.395098,
+      "modificationDate" : 1522489900.395098,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Slack.app\/Contents\/MacOS\/Slack",
+      "protocol" : "tcp",
+      "remote-domains" : "slack-imgs.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1522489892.8105478,
+      "modificationDate" : 1522489892.8105478,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Slack.app\/Contents\/MacOS\/Slack",
+      "protocol" : "tcp",
+      "remote-domains" : "slack-msgs.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1522489336.2816548,
+      "modificationDate" : 1522489336.2816548,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Slack.app\/Contents\/MacOS\/Slack",
+      "protocol" : "tcp",
+      "remote-domains" : "slack.com"
+    }
+  ]
+}

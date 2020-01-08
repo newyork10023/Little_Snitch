@@ -1,0 +1,256 @@
+{
+  "description" : "Thunderbird--AllowOut",
+  "name" : "Thunderbird--AllowOut",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1531950847.7882199,
+      "modificationDate" : 1532112590.4777231,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-hosts" : "addons.thunderbird.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1544544153.0942411,
+      "modificationDate" : 1544581414.619741,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-hosts" : "api.accounts.firefox.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1577401028.286588,
+      "modificationDate" : 1577443410.2808819,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-hosts" : "aus.thunderbird.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1531593827.9406271,
+      "modificationDate" : 1531608514.072026,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-hosts" : "autoconfig.thunderbird.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1523014667.2301741,
+      "modificationDate" : 1523014667.2301741,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-hosts" : "enigmail.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1523016049.9517,
+      "modificationDate" : 1523016049.9517,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-hosts" : "gmail.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1577410161.591033,
+      "modificationDate" : 1577443412.7783771,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-hosts" : "keys.openpgp.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1541714575.7159848,
+      "modificationDate" : 1541714733.4625511,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-hosts" : "live.thunderbird.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1531593830.1902609,
+      "modificationDate" : 1531608514.0710859,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-hosts" : "mx.thunderbird.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1544544123.137769,
+      "modificationDate" : 1544581414.6206341,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-hosts" : "oauth.accounts.firefox.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1531950840.175971,
+      "modificationDate" : 1532112590.479578,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-hosts" : "services.addons.thunderbird.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1531950844.481106,
+      "modificationDate" : 1532112590.478632,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-hosts" : "versioncheck-bg.addons.thunderbird.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1544686254.7077301,
+      "modificationDate" : 1544807069.9214149,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-hosts" : "versioncheck.addons.thunderbird.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1523014664.6796231,
+      "modificationDate" : 1523014664.6796231,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-hosts" : "www.enigmail.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1555182315.791326,
+      "modificationDate" : 1555266231.7868609,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-hosts" : "www.thunderbird.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1531596931.2125001,
+      "modificationDate" : 1531608514.072979,
+      "owner" : "me",
+      "ports" : "465",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-hosts" : "mail.gandi.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1542241680.9019442,
+      "modificationDate" : 1542264039.8730931,
+      "owner" : "me",
+      "ports" : "465",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-hosts" : "smtp.mail.yahoo.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1542242674.036253,
+      "modificationDate" : 1542264039.8743811,
+      "owner" : "me",
+      "ports" : "993",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-hosts" : "imap.mail.yahoo.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1531593855.2676239,
+      "modificationDate" : 1531608514.0739689,
+      "owner" : "me",
+      "ports" : "993",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-hosts" : "mail.gandi.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1520684291.036844,
+      "modificationDate" : 1520710172.9498749,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-domains" : "mozilla.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1520685374.6170092,
+      "modificationDate" : 1520710172.9466162,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-domains" : "mozilla.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1520685371.9336419,
+      "modificationDate" : 1520710172.9472671,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-domains" : "mozilla.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1520684306.3142691,
+      "modificationDate" : 1520710172.949223,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-domains" : "mozillamessaging.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1520726031.437397,
+      "modificationDate" : 1520726031.437397,
+      "owner" : "me",
+      "ports" : "465",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-domains" : "gmail.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1520684545.6513019,
+      "modificationDate" : 1520710172.9505391,
+      "owner" : "me",
+      "ports" : "993",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "protocol" : "tcp",
+      "remote-domains" : "gmail.com"
+    }
+  ]
+}

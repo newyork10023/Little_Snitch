@@ -1,0 +1,96 @@
+{
+  "description" : "WhatsApp-AllowOut",
+  "name" : "WhatsApp-AllowOut",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1544124892.0152001,
+      "modificationDate" : 1544137564.501698,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "tcp",
+      "remote-hosts" : "dyn.web.whatsapp.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1544124926.618798,
+      "modificationDate" : 1544137564.500447,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "tcp",
+      "remote-hosts" : "mmg-fna.whatsapp.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1577394462.287051,
+      "modificationDate" : 1577400674.278635,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "tcp",
+      "remote-hosts" : "mmg.whatsapp.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1544124862.6311421,
+      "modificationDate" : 1544137564.5029612,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "tcp",
+      "remote-hosts" : "scontent.fymy1-2.fna.fbcdn.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1544124861.0471649,
+      "modificationDate" : 1544137564.5042181,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "tcp",
+      "remote-hosts" : "w2.web.whatsapp.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1544124972.8794279,
+      "modificationDate" : 1544137564.499177,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "tcp",
+      "remote-hosts" : "w3.web.whatsapp.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1544137454.7771411,
+      "modificationDate" : 1544137564.4979229,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "tcp",
+      "remote-hosts" : "w6.web.whatsapp.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1544137475.7709851,
+      "modificationDate" : 1544137564.4966679,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "tcp",
+      "remote-hosts" : "w7.web.whatsapp.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1544124858.2895842,
+      "modificationDate" : 1544137564.5055251,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "tcp",
+      "remote-hosts" : "web.whatsapp.com"
+    }
+  ]
+}

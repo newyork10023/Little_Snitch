@@ -1,0 +1,36 @@
+{
+  "description" : "Tunnelblick--AllowOut",
+  "name" : "Tunnelblick--AllowOut",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1522342190.945401,
+      "modificationDate" : 1522342190.945401,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Tunnelblick.app\/Contents\/MacOS\/Tunnelblick",
+      "protocol" : "tcp",
+      "remote-domains" : "s3.amazonaws.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1522342188.326025,
+      "modificationDate" : 1522342188.326025,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Tunnelblick.app\/Contents\/MacOS\/Tunnelblick",
+      "protocol" : "tcp",
+      "remote-domains" : "github.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1521904139.166635,
+      "modificationDate" : 1521904139.166635,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Tunnelblick.app\/Contents\/MacOS\/Tunnelblick",
+      "protocol" : "tcp",
+      "remote-domains" : "tunnelblick.net"
+    }
+  ]
+}

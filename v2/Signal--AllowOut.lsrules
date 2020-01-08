@@ -1,0 +1,49 @@
+{
+  "description" : "Signal--AllowOut",
+  "name" : "Signal--AllowOut",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1542180946.0217819,
+      "modificationDate" : 1542186025.2424011,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Signal.app\/Contents\/MacOS\/Signal",
+      "protocol" : "tcp",
+      "remote-hosts" : "cdn.signal.org",
+      "via" : "\/Applications\/Signal.app\/Contents\/Frameworks\/Signal Helper.app\/Contents\/MacOS\/Signal Helper"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1542180886.3991849,
+      "modificationDate" : 1542186025.245003,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Signal.app\/Contents\/MacOS\/Signal",
+      "protocol" : "tcp",
+      "remote-hosts" : "textsecure-service.whispersystems.org",
+      "via" : "\/Applications\/Signal.app\/Contents\/Frameworks\/Signal Helper.app\/Contents\/MacOS\/Signal Helper"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1542180889.686563,
+      "modificationDate" : 1542186025.2437019,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Signal.app\/Contents\/MacOS\/Signal",
+      "protocol" : "tcp",
+      "remote-hosts" : "whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com",
+      "via" : "\/Applications\/Signal.app\/Contents\/Frameworks\/Signal Helper.app\/Contents\/MacOS\/Signal Helper"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1542180881.0141001,
+      "modificationDate" : 1542186025.24628,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Signal.app\/Contents\/MacOS\/Signal",
+      "protocol" : "tcp",
+      "remote-hosts" : "updates.signal.org"
+    }
+  ]
+}

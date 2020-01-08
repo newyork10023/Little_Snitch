@@ -1,0 +1,210 @@
+{
+  "description" : "iTerm--Allow",
+  "name" : "iTerm--Allow",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1543703083.502166,
+      "direction" : "incoming",
+      "modificationDate" : 1543703083.502166,
+      "owner" : "me",
+      "process" : "\/Applications\/Utilities\/iTerm.app\/Contents\/MacOS\/iTerm2",
+      "remote" : "any",
+      "via" : "\/usr\/sbin\/traceroute6"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1559482876.6450958,
+      "modificationDate" : 1559521610.930948,
+      "owner" : "me",
+      "ports" : "53",
+      "process" : "\/Applications\/Utilities\/iTerm.app\/Contents\/MacOS\/iTerm2",
+      "protocol" : "udp",
+      "remote-addresses" : "2001:470:88f3:100::1",
+      "via" : "\/usr\/bin\/dig"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573369464.1187449,
+      "modificationDate" : 1573373160.416239,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/iTerm.app\/Contents\/MacOS\/iTerm2",
+      "protocol" : "tcp",
+      "remote-hosts" : "akamai.bintray.com",
+      "via" : "\/usr\/bin\/curl"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1531633634.8604851,
+      "modificationDate" : 1531634185.789494,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/iTerm.app\/Contents\/MacOS\/iTerm2",
+      "protocol" : "tcp",
+      "remote-hosts" : "api.github.com",
+      "via" : "\/usr\/bin\/curl"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573374147.645885,
+      "modificationDate" : 1573375933.7502542,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/iTerm.app\/Contents\/MacOS\/iTerm2",
+      "protocol" : "tcp",
+      "remote-hosts" : "files.pythonhosted.org",
+      "via" : "\/usr\/bin\/curl"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573372955.138664,
+      "modificationDate" : 1573373160.417037,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/iTerm.app\/Contents\/MacOS\/iTerm2",
+      "protocol" : "tcp",
+      "remote-hosts" : "ftp.openbsd.org",
+      "via" : "\/usr\/bin\/curl"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1538764885.184279,
+      "modificationDate" : 1538766933.04896,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/iTerm.app\/Contents\/MacOS\/iTerm2",
+      "protocol" : "tcp",
+      "remote-hosts" : "github.com",
+      "via" : "\/Applications\/Xcode.app\/Contents\/Developer\/usr\/libexec\/git-core\/git-remote-http"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1531633649.8692369,
+      "modificationDate" : 1531634185.7885389,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/iTerm.app\/Contents\/MacOS\/iTerm2",
+      "protocol" : "tcp",
+      "remote-hosts" : "homebrew.bintray.com",
+      "via" : "\/usr\/bin\/curl"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573373079.807498,
+      "modificationDate" : 1573373160.4178419,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/iTerm.app\/Contents\/MacOS\/iTerm2",
+      "protocol" : "tcp",
+      "remote-hosts" : "opensource.apple.com",
+      "via" : "\/usr\/bin\/curl"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573372810.167377,
+      "modificationDate" : 1573373160.4186471,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/iTerm.app\/Contents\/MacOS\/iTerm2",
+      "protocol" : "tcp",
+      "remote-hosts" : "pkgconfig.freedesktop.org",
+      "via" : "\/usr\/bin\/curl"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573372961.4926701,
+      "modificationDate" : 1573373160.419554,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/iTerm.app\/Contents\/MacOS\/iTerm2",
+      "protocol" : "tcp",
+      "remote-hosts" : "raw.githubusercontent.com",
+      "via" : "\/usr\/bin\/curl"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573373895.3628769,
+      "modificationDate" : 1573375933.751097,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/iTerm.app\/Contents\/MacOS\/iTerm2",
+      "protocol" : "tcp",
+      "remote-hosts" : "sqlite.org",
+      "via" : "\/usr\/bin\/curl"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573373959.38024,
+      "modificationDate" : 1573375933.751991,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/iTerm.app\/Contents\/MacOS\/iTerm2",
+      "protocol" : "tcp",
+      "remote-hosts" : "www.python.org",
+      "via" : "\/usr\/bin\/curl"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1520713544.8772569,
+      "modificationDate" : 1520713544.8772569,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/iTerm.app\/Contents\/MacOS\/iTerm2",
+      "protocol" : "tcp",
+      "remote-domains" : "iterm2.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1544078458.378979,
+      "modificationDate" : 1555732425.079483,
+      "owner" : "me",
+      "ports" : "22",
+      "process" : "\/Applications\/Utilities\/iTerm.app\/Contents\/MacOS\/iTerm2",
+      "protocol" : "tcp",
+      "remote" : "local-net",
+      "via" : "\/usr\/bin\/ssh"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1522374953.405978,
+      "modificationDate" : 1522455497.949698,
+      "owner" : "system",
+      "ports" : "123",
+      "process" : "\/Applications\/Utilities\/iTerm.app\/Contents\/MacOS\/iTerm2",
+      "protocol" : "udp",
+      "remote" : "any",
+      "via" : "\/usr\/bin\/sntp"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1522388347.8485489,
+      "modificationDate" : 1522389256.065212,
+      "owner" : "me",
+      "process" : "\/Applications\/Utilities\/iTerm.app\/Contents\/MacOS\/iTerm2",
+      "protocol" : "icmp",
+      "remote" : "any",
+      "via" : "\/sbin\/ping"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1543702923.5342841,
+      "modificationDate" : 1543703037.649703,
+      "owner" : "me",
+      "process" : "\/Applications\/Utilities\/iTerm.app\/Contents\/MacOS\/iTerm2",
+      "protocol" : "udp",
+      "remote" : "any",
+      "via" : "\/usr\/sbin\/traceroute6"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1532457560.8277469,
+      "modificationDate" : 1532465847.6946599,
+      "owner" : "me",
+      "process" : "\/Applications\/Utilities\/iTerm.app\/Contents\/MacOS\/iTerm2",
+      "protocol" : "ipv6-icmp",
+      "remote" : "any",
+      "via" : "\/sbin\/ping6"
+    }
+  ]
+}

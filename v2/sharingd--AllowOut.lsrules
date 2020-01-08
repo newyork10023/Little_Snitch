@@ -1,0 +1,126 @@
+{
+  "description" : "",
+  "name" : "sharingd--AllowOut",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1572980317.812197,
+      "modificationDate" : 1572981344.334379,
+      "owner" : "me",
+      "ports" : "137",
+      "process" : "\/usr\/libexec\/sharingd",
+      "protocol" : "udp",
+      "remote-addresses" : "10.218.1.255"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572980328.0050721,
+      "modificationDate" : 1572981344.33517,
+      "owner" : "me",
+      "ports" : "137",
+      "process" : "\/usr\/libexec\/sharingd",
+      "protocol" : "udp",
+      "remote-addresses" : "10.218.10.255"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572980321.479125,
+      "modificationDate" : 1572981344.3359671,
+      "owner" : "me",
+      "ports" : "137",
+      "process" : "\/usr\/libexec\/sharingd",
+      "protocol" : "udp",
+      "remote-addresses" : "10.218.100.255"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572980324.7209868,
+      "modificationDate" : 1572981344.3367782,
+      "owner" : "me",
+      "ports" : "137",
+      "process" : "\/usr\/libexec\/sharingd",
+      "protocol" : "udp",
+      "remote-addresses" : "10.218.2.255"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572980334.142462,
+      "modificationDate" : 1572981344.3375869,
+      "owner" : "me",
+      "ports" : "137",
+      "process" : "\/usr\/libexec\/sharingd",
+      "protocol" : "udp",
+      "remote-addresses" : "10.218.200.255"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572980336.0168982,
+      "modificationDate" : 1572981344.338526,
+      "owner" : "me",
+      "ports" : "137",
+      "process" : "\/usr\/libexec\/sharingd",
+      "protocol" : "udp",
+      "remote-addresses" : "10.218.210.255"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572980331.5690889,
+      "modificationDate" : 1572981344.3393941,
+      "owner" : "me",
+      "ports" : "137",
+      "process" : "\/usr\/libexec\/sharingd",
+      "protocol" : "udp",
+      "remote-addresses" : "10.218.220.255"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1577389685.538599,
+      "modificationDate" : 1577394326.5542521,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/usr\/libexec\/sharingd",
+      "protocol" : "tcp",
+      "remote-hosts" : "aidc.apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572980362.333148,
+      "modificationDate" : 1572980362.333148,
+      "owner" : "me",
+      "ports" : "137",
+      "process" : "\/usr\/libexec\/sharingd",
+      "protocol" : "udp",
+      "remote" : "broadcast"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572823457.3622921,
+      "modificationDate" : 1572981269.2115049,
+      "owner" : "me",
+      "ports" : "139",
+      "process" : "\/usr\/libexec\/sharingd",
+      "protocol" : "tcp",
+      "remote" : "local-net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572823482.667978,
+      "modificationDate" : 1572981286.5714579,
+      "owner" : "me",
+      "ports" : "445",
+      "process" : "\/usr\/libexec\/sharingd",
+      "protocol" : "tcp",
+      "remote" : "local-net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572823467.0343561,
+      "modificationDate" : 1572981406.5238161,
+      "owner" : "me",
+      "ports" : "548",
+      "process" : "\/usr\/libexec\/sharingd",
+      "protocol" : "tcp",
+      "remote" : "local-net"
+    }
+  ]
+}

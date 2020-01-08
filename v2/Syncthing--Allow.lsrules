@@ -1,0 +1,139 @@
+{
+  "description" : "",
+  "name" : "Syncthing--Allow",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1576983254.2254848,
+      "direction" : "incoming",
+      "modificationDate" : 1576986896.4720459,
+      "owner" : "me",
+      "ports" : "22000",
+      "process" : "\/Applications\/Syncthing.app\/Contents\/MacOS\/Syncthing",
+      "protocol" : "tcp",
+      "remote" : "local-net",
+      "via" : "\/Users\/plaw\/Library\/Application Support\/Syncthing-macOS\/syncthing"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576986961.813174,
+      "direction" : "incoming",
+      "modificationDate" : 1576987566.594559,
+      "owner" : "me",
+      "process" : "\/Applications\/Syncthing.app\/Contents\/MacOS\/Syncthing",
+      "protocol" : "udp",
+      "remote" : "local-net",
+      "via" : "\/Users\/plaw\/Library\/Application Support\/Syncthing-macOS\/syncthing"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576982722.050508,
+      "modificationDate" : 1576987453.218658,
+      "owner" : "me",
+      "ports" : "21027",
+      "process" : "\/Applications\/Syncthing.app\/Contents\/MacOS\/Syncthing",
+      "protocol" : "udp",
+      "remote-addresses" : "ff12::8384",
+      "via" : "\/Users\/plaw\/Library\/Application Support\/Syncthing-macOS\/syncthing"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576987430.5239401,
+      "modificationDate" : 1576987453.2194381,
+      "owner" : "me",
+      "ports" : "22000",
+      "process" : "\/Applications\/Syncthing.app\/Contents\/MacOS\/Syncthing",
+      "protocol" : "tcp",
+      "remote-addresses" : "10.218.211.121",
+      "via" : "\/Users\/plaw\/Library\/Application Support\/Syncthing-macOS\/syncthing"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1577930030.8938041,
+      "modificationDate" : 1577930626.8233981,
+      "owner" : "me",
+      "ports" : "22000",
+      "process" : "\/Applications\/Syncthing.app\/Contents\/MacOS\/Syncthing",
+      "protocol" : "tcp",
+      "remote-addresses" : "10.218.211.122",
+      "via" : "\/Users\/plaw\/Library\/Application Support\/Syncthing-macOS\/syncthing"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576987338.5679278,
+      "modificationDate" : 1576987478.1212358,
+      "owner" : "me",
+      "ports" : "22000",
+      "process" : "\/Applications\/Syncthing.app\/Contents\/MacOS\/Syncthing",
+      "protocol" : "tcp",
+      "remote-addresses" : "10.218.211.130",
+      "via" : "\/Users\/plaw\/Library\/Application Support\/Syncthing-macOS\/syncthing"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576987500.8895411,
+      "modificationDate" : 1576987500.8895411,
+      "owner" : "me",
+      "ports" : "22000",
+      "process" : "\/Applications\/Syncthing.app\/Contents\/MacOS\/Syncthing",
+      "protocol" : "tcp",
+      "remote-addresses" : "10.218.211.131",
+      "via" : "\/Users\/plaw\/Library\/Application Support\/Syncthing-macOS\/syncthing"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576987440.6220541,
+      "modificationDate" : 1576987453.2209821,
+      "owner" : "me",
+      "ports" : "22000",
+      "process" : "\/Applications\/Syncthing.app\/Contents\/MacOS\/Syncthing",
+      "protocol" : "udp",
+      "remote-addresses" : "10.218.211.121",
+      "via" : "\/Users\/plaw\/Library\/Application Support\/Syncthing-macOS\/syncthing"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576987348.8486991,
+      "modificationDate" : 1576987484.593209,
+      "owner" : "me",
+      "ports" : "22000",
+      "process" : "\/Applications\/Syncthing.app\/Contents\/MacOS\/Syncthing",
+      "protocol" : "udp",
+      "remote-addresses" : "10.218.211.130",
+      "via" : "\/Users\/plaw\/Library\/Application Support\/Syncthing-macOS\/syncthing"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576987518.8738101,
+      "modificationDate" : 1576987518.8738101,
+      "owner" : "me",
+      "ports" : "22000",
+      "process" : "\/Applications\/Syncthing.app\/Contents\/MacOS\/Syncthing",
+      "protocol" : "udp",
+      "remote-addresses" : "10.218.211.131",
+      "via" : "\/Users\/plaw\/Library\/Application Support\/Syncthing-macOS\/syncthing"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576983692.801311,
+      "modificationDate" : 1576987453.2234569,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Syncthing.app\/Contents\/MacOS\/Syncthing",
+      "protocol" : "tcp",
+      "remote-hosts" : "upgrades.syncthing.net",
+      "via" : "\/Users\/plaw\/Library\/Application Support\/Syncthing-macOS\/syncthing"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576982728.706526,
+      "modificationDate" : 1576987076.8023071,
+      "owner" : "me",
+      "ports" : "21027",
+      "process" : "\/Applications\/Syncthing.app\/Contents\/MacOS\/Syncthing",
+      "protocol" : "udp",
+      "remote" : "broadcast",
+      "via" : "\/Users\/plaw\/Library\/Application Support\/Syncthing-macOS\/syncthing"
+    }
+  ]
+}

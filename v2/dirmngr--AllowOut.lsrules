@@ -1,0 +1,106 @@
+{
+  "description" : "",
+  "name" : "dirmngr--AllowOut",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1568109061.0694251,
+      "modificationDate" : 1568112019.2335939,
+      "owner" : "me",
+      "ports" : "53",
+      "process" : "\/usr\/local\/MacGPG2\/bin\/dirmngr",
+      "protocol" : "udp",
+      "remote-addresses" : "10.218.100.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1543702756.9019151,
+      "modificationDate" : 1543702983.456912,
+      "owner" : "me",
+      "ports" : "53",
+      "process" : "\/usr\/local\/MacGPG2\/bin\/dirmngr",
+      "protocol" : "udp",
+      "remote-addresses" : "2001:470:88f3:100::1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1522970052.8375502,
+      "modificationDate" : 1522970052.8375502,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/usr\/local\/MacGPG2\/bin\/dirmngr",
+      "protocol" : "tcp",
+      "remote-hosts" : "hkps.pool.sks-keyservers.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1530524499.671998,
+      "modificationDate" : 1530547366.379178,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/usr\/local\/MacGPG2\/bin\/dirmngr",
+      "protocol" : "tcp",
+      "remote-hosts" : "keys.mailvelope.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1568109064.066385,
+      "modificationDate" : 1568112019.2343969,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/usr\/local\/MacGPG2\/bin\/dirmngr",
+      "protocol" : "tcp",
+      "remote-hosts" : "keys.openpgp.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1527178724.0854459,
+      "modificationDate" : 1527189209.450233,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/usr\/local\/MacGPG2\/bin\/dirmngr",
+      "protocol" : "tcp",
+      "remote-hosts" : "keyserver-prod.v3jierkpjv.eu-west-1.elasticbeanstalk.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1523014277.8856158,
+      "modificationDate" : 1523014277.8856158,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/usr\/local\/MacGPG2\/bin\/dirmngr",
+      "protocol" : "tcp",
+      "remote-hosts" : "pgp.mit.edu"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1523014306.3127,
+      "modificationDate" : 1523014306.3127,
+      "owner" : "me",
+      "ports" : "11371",
+      "process" : "\/usr\/local\/MacGPG2\/bin\/dirmngr",
+      "protocol" : "tcp",
+      "remote-hosts" : "hkps.pool.sks-keyservers.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1523014351.8517261,
+      "modificationDate" : 1523014351.8517261,
+      "owner" : "me",
+      "ports" : "11371",
+      "process" : "\/usr\/local\/MacGPG2\/bin\/dirmngr",
+      "protocol" : "tcp",
+      "remote-hosts" : "pgp.uni-mainz.de"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1523014288.939002,
+      "modificationDate" : 1523014288.939002,
+      "owner" : "me",
+      "ports" : "11371",
+      "process" : "\/usr\/local\/MacGPG2\/bin\/dirmngr",
+      "protocol" : "tcp",
+      "remote-hosts" : "pool.sks-keyservers.net"
+    }
+  ]
+}

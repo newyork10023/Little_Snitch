@@ -1,0 +1,76 @@
+{
+  "description" : "vmnet-natd--DenyOut",
+  "name" : "vmnet-natd--DenyOut",
+  "rules" : [
+    {
+      "action" : "deny",
+      "creationDate" : 1544332780.1904511,
+      "modificationDate" : 1544364923.9608169,
+      "owner" : "system",
+      "ports" : "443",
+      "process" : "\/Applications\/VMware Fusion.app\/Contents\/Library\/vmnet-natd",
+      "protocol" : "tcp",
+      "remote-hosts" : "apple-finance.query.yahoo.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1577741904.0516992,
+      "modificationDate" : 1577896514.7004151,
+      "owner" : "system",
+      "ports" : "443",
+      "process" : "\/Applications\/VMware Fusion.app\/Contents\/Library\/vmnet-natd",
+      "protocol" : "tcp",
+      "remote-hosts" : "candycrushsoda.king.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1542072556.4256659,
+      "modificationDate" : 1542087002.012985,
+      "owner" : "system",
+      "ports" : "443",
+      "process" : "\/Applications\/VMware Fusion.app\/Contents\/Library\/vmnet-natd",
+      "protocol" : "tcp",
+      "remote-hosts" : "getpocket.cdn.mozilla.net"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1542072553.9686971,
+      "modificationDate" : 1542087002.0143061,
+      "owner" : "system",
+      "ports" : "443",
+      "process" : "\/Applications\/VMware Fusion.app\/Contents\/Library\/vmnet-natd",
+      "protocol" : "tcp",
+      "remote-hosts" : "img-getpocket.cdn.mozilla.net"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1542072562.204175,
+      "modificationDate" : 1542087002.011709,
+      "owner" : "system",
+      "ports" : "443",
+      "process" : "\/Applications\/VMware Fusion.app\/Contents\/Library\/vmnet-natd",
+      "protocol" : "tcp",
+      "remote-hosts" : "location.services.mozilla.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1544328218.87397,
+      "modificationDate" : 1544331687.2546279,
+      "owner" : "system",
+      "ports" : "443",
+      "process" : "\/Applications\/VMware Fusion.app\/Contents\/Library\/vmnet-natd",
+      "protocol" : "tcp",
+      "remote-hosts" : "telemetry.malwarebytes.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1577741962.606159,
+      "modificationDate" : 1577896514.701051,
+      "owner" : "system",
+      "ports" : "443",
+      "process" : "\/Applications\/VMware Fusion.app\/Contents\/Library\/vmnet-natd",
+      "protocol" : "tcp",
+      "remote-hosts" : "www.bing.com"
+    }
+  ]
+}

@@ -1,0 +1,676 @@
+{
+  "description" : "Waterfox-AllowOut",
+  "name" : "Waterfox-AllowOut",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1553225166.903311,
+      "modificationDate" : 1553266436.737747,
+      "owner" : "me",
+      "ports" : "80",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "detectportal.firefox.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1562238239.233777,
+      "modificationDate" : 1562238320.7637739,
+      "owner" : "me",
+      "ports" : "80",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "my.t-mobile.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553105539.6769981,
+      "modificationDate" : 1553157225.3334498,
+      "owner" : "me",
+      "ports" : "80",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.comodoca.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104905.2557511,
+      "modificationDate" : 1553157225.3342819,
+      "owner" : "me",
+      "ports" : "80",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.comodoca4.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553103919.89887,
+      "modificationDate" : 1553157225.3351181,
+      "owner" : "me",
+      "ports" : "80",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.digicert.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553106309.758251,
+      "modificationDate" : 1553157225.3359652,
+      "owner" : "me",
+      "ports" : "80",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.godaddy.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104885.273926,
+      "modificationDate" : 1553157225.336797,
+      "owner" : "me",
+      "ports" : "80",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.int-x3.letsencrypt.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104425.6706271,
+      "modificationDate" : 1553157225.3376319,
+      "owner" : "me",
+      "ports" : "80",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.pki.goog"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104652.839186,
+      "modificationDate" : 1553157225.338475,
+      "owner" : "me",
+      "ports" : "80",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.sca1b.amazontrust.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553106506.406786,
+      "modificationDate" : 1553157225.3393531,
+      "owner" : "me",
+      "ports" : "80",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "ocsp.usertrust.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557686294.7186699,
+      "modificationDate" : 1557686749.144372,
+      "owner" : "me",
+      "ports" : "80",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "winhelp2002.mvps.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1562238242.543467,
+      "modificationDate" : 1562238320.76455,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "account.t-mobile.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104087.9599991,
+      "modificationDate" : 1553157308.0109839,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "accounts-static.cdn.mozilla.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104085.221427,
+      "modificationDate" : 1553157308.011802,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "accounts.firefox.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104883.666431,
+      "modificationDate" : 1553157308.0126171,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "add0n.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104711.134033,
+      "modificationDate" : 1553157308.013433,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "addons-amo.cdn.mozilla.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104712.776686,
+      "modificationDate" : 1553157308.0142469,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "addons.cdn.mozilla.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104708.332715,
+      "modificationDate" : 1553157308.0150681,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "addons.mozilla.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557692001.521553,
+      "modificationDate" : 1557695593.901217,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "ajax.cloudflare.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104115.6680169,
+      "modificationDate" : 1553157308.0158911,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "api.accounts.firefox.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104901.2447281,
+      "modificationDate" : 1553157308.0167041,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "api.github.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104537.0780501,
+      "modificationDate" : 1553157308.017524,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "blocklists.settings.services.mozilla.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104887.3510931,
+      "modificationDate" : 1553157308.0183401,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "cdn.add0n.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104137.1143589,
+      "modificationDate" : 1553157308.0200071,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "confirm.accounts.firefox.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557685128.4254041,
+      "modificationDate" : 1557686749.1450701,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "disconnect.me"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557687775.724802,
+      "modificationDate" : 1557695593.9019132,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "duckduckgo.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553106495.976438,
+      "modificationDate" : 1553157308.020834,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "easylist-downloads.adblockplus.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553106497.3821769,
+      "modificationDate" : 1553157308.021668,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "easylist.to"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553106505.4863319,
+      "modificationDate" : 1553157308.0224981,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "fanboy.co.nz"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553106494.8543949,
+      "modificationDate" : 1553157308.0233259,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "filters.adtidy.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104150.206424,
+      "modificationDate" : 1553157308.0241971,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "firefoxusercontent.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557688616.4010921,
+      "modificationDate" : 1557695593.9026141,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "gitcdn.xyz"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557690800.9572868,
+      "modificationDate" : 1557695593.903317,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "github.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553106498.4530711,
+      "modificationDate" : 1553157308.025034,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "hosts-file.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553106306.4811411,
+      "modificationDate" : 1553157308.027601,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "mirror.cedia.org.ec"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104660.2487888,
+      "modificationDate" : 1553157308.028445,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "mozorg.cdn.mozilla.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553105536.357635,
+      "modificationDate" : 1553157308.0292959,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "mxr.mozilla.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1562238241.3746519,
+      "modificationDate" : 1562238320.765357,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "my.t-mobile.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104141.38903,
+      "modificationDate" : 1553157308.0301549,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "oauth.accounts.firefox.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553106521.6859078,
+      "modificationDate" : 1553157308.03108,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "pgl.yoyo.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104656.6663361,
+      "modificationDate" : 1553157580.953649,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "prod-cdn.sumo.mozilla.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104145.7222309,
+      "modificationDate" : 1553157580.954483,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "profile.accounts.firefox.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557687779.342195,
+      "modificationDate" : 1557695593.9040508,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "proxy.duckduckgo.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553105541.605679,
+      "modificationDate" : 1553157580.9553251,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "publicsuffix.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104118.940407,
+      "modificationDate" : 1553157580.956161,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "push.services.mozilla.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557685553.244221,
+      "modificationDate" : 1557686749.145766,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "raw.githubusercontent.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553106499.7115951,
+      "modificationDate" : 1553157580.9586968,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "road.adblock.ro"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553106502.214788,
+      "modificationDate" : 1553157580.9603839,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "secure.fanboy.co.nz"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104401.339695,
+      "modificationDate" : 1553157580.9612269,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "services.addons.mozilla.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557685133.478848,
+      "modificationDate" : 1557686749.1464629,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "services.disconnect.me"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553103915.582305,
+      "modificationDate" : 1553157618.648953,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "shavar.services.mozilla.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553106438.1951129,
+      "modificationDate" : 1553157580.9629431,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "someonewhocares.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104654.5624819,
+      "modificationDate" : 1553157618.649822,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "static-media-prod-cdn.sumo.mozilla.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557685285.4730039,
+      "modificationDate" : 1557686749.1471581,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "storage-waterfox.netdna-ssl.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104650.6424341,
+      "modificationDate" : 1553157580.9638,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "support.mozilla.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104147.7456651,
+      "modificationDate" : 1553157618.6506929,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "sync-544-us-west-2.sync.services.mozilla.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104143.7000918,
+      "modificationDate" : 1553157580.9646511,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "token.services.mozilla.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553103927.8066001,
+      "modificationDate" : 1553157580.9655161,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "tracking-protection.cdn.mozilla.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104888.7189531,
+      "modificationDate" : 1553157580.9663711,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "utils.add0n.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104417.060565,
+      "modificationDate" : 1553157580.967243,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "versioncheck-bg.addons.mozilla.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553105134.7618279,
+      "modificationDate" : 1553157580.9680991,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "versioncheck.addons.mozilla.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104949.6750798,
+      "modificationDate" : 1553157580.9689641,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "webextensions.settings.services.mozilla.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557685131.9427772,
+      "modificationDate" : 1557686749.1478601,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "www.eff.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553106503.80708,
+      "modificationDate" : 1553157580.9706821,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "www.fanboy.co.nz"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553105350.8919261,
+      "modificationDate" : 1553157580.9715559,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "www.https-rulesets.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553105781.6782231,
+      "modificationDate" : 1553157580.972445,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "www.malwaredomainlist.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1553104648.6358309,
+      "modificationDate" : 1553157580.97335,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Waterfox.app\/Contents\/MacOS\/waterfox",
+      "protocol" : "tcp",
+      "remote-hosts" : "www.mozilla.org"
+    }
+  ]
+}

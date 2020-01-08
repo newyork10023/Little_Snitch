@@ -1,0 +1,76 @@
+{
+  "description" : "cloudd-AllowOut",
+  "name" : "cloudd-AllowOut",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1523012765.479048,
+      "modificationDate" : 1523012765.479048,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/System\/Library\/PrivateFrameworks\/CloudKitDaemon.framework\/Support\/cloudd",
+      "protocol" : "tcp",
+      "remote-hosts" : "configuration.apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576917820.093632,
+      "modificationDate" : 1576920706.8662219,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/System\/Library\/PrivateFrameworks\/CloudKitDaemon.framework\/Support\/cloudd",
+      "protocol" : "tcp",
+      "remote-hosts" : "gateway-carry.icloud.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576957770.9098802,
+      "modificationDate" : 1576957818.6361279,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/System\/Library\/PrivateFrameworks\/CloudKitDaemon.framework\/Support\/cloudd",
+      "protocol" : "tcp",
+      "remote-hosts" : "gateway.icloud.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576917849.5657129,
+      "modificationDate" : 1576920706.8669729,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/System\/Library\/PrivateFrameworks\/CloudKitDaemon.framework\/Support\/cloudd",
+      "protocol" : "tcp",
+      "remote-hosts" : "metrics.icloud.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1522963191.2861371,
+      "modificationDate" : 1522963191.2861371,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/System\/Library\/PrivateFrameworks\/CloudKitDaemon.framework\/Support\/cloudd",
+      "protocol" : "tcp",
+      "remote-hosts" : "p43-ckdatabase.icloud.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1523986894.4943151,
+      "modificationDate" : 1523986894.4943151,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/System\/Library\/PrivateFrameworks\/CloudKitDaemon.framework\/Support\/cloudd",
+      "protocol" : "tcp",
+      "remote-hosts" : "p43-ckdevice.icloud.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1545597712.600678,
+      "modificationDate" : 1545622392.783926,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/System\/Library\/PrivateFrameworks\/CloudKitDaemon.framework\/Support\/cloudd",
+      "protocol" : "tcp",
+      "remote-hosts" : "p43-ckshare.icloud.com"
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "description" : "Opera--AllowOut",
+  "name" : "Opera--AllowOut",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1557693848.8708591,
+      "modificationDate" : 1557695457.544852,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "add0n.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557693609.336648,
+      "modificationDate" : 1557695457.5455542,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "addons-extensions.operacdn.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557693029.693712,
+      "modificationDate" : 1557695457.546277,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "addons-media.operacdn.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557693577.4465652,
+      "modificationDate" : 1557695457.546979,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "addons-static.operacdn.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557693026.7891312,
+      "modificationDate" : 1557695457.547683,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "addons.opera.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557693580.7222018,
+      "modificationDate" : 1557695457.5483851,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "af.opera.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557692972.2790141,
+      "modificationDate" : 1557695457.549087,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "android.clients.google.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557692952.7539768,
+      "modificationDate" : 1557695457.549793,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "autoupdate.geo.opera.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557693853.2486711,
+      "modificationDate" : 1557695457.5504951,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "cdn.add0n.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557695126.0065231,
+      "modificationDate" : 1557695457.551228,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "cdn.mybrowseraddon.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557693575.4164538,
+      "modificationDate" : 1557695457.551929,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "cdnjs.cloudflare.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557695081.792048,
+      "modificationDate" : 1557695457.552633,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "disconnect.me"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557693086.153779,
+      "modificationDate" : 1557695457.5533528,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "dl.opera.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557693004.229032,
+      "modificationDate" : 1557695457.5540628,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "download1.operacdn.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557692964.389986,
+      "modificationDate" : 1557695457.5547671,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "duckduckgo.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557693071.4925089,
+      "modificationDate" : 1557695457.555479,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "easylist-downloads.adblockplus.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557694130.321383,
+      "modificationDate" : 1557695457.5561972,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "easylist.to"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1562238770.7314019,
+      "modificationDate" : 1562422235.1537709,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "exchange.opera.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557692974.8092999,
+      "modificationDate" : 1557695457.556905,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "extension-updates.opera.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557692976.8895369,
+      "modificationDate" : 1557695457.557632,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "features.opera-api.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557694127.292953,
+      "modificationDate" : 1557695457.558346,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "filters.adtidy.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557694140.175514,
+      "modificationDate" : 1557695457.5590591,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "gitcdn.xyz"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557694155.0878901,
+      "modificationDate" : 1557695457.559787,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "hosts-file.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557693858.9463801,
+      "modificationDate" : 1557695457.560499,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "img.shields.io"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557695096.575706,
+      "modificationDate" : 1557695457.5612612,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "js.stripe.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557694142.968174,
+      "modificationDate" : 1557695457.562001,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "mirror.cedia.org.ec"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557695122.5523639,
+      "modificationDate" : 1557695457.562746,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "mybrowseraddon.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557694161.433073,
+      "modificationDate" : 1557695457.563483,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "pgl.yoyo.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557694119.1160378,
+      "modificationDate" : 1557695457.5642209,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "publicsuffix.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557694038.8651471,
+      "modificationDate" : 1557695457.5649891,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "raw.githubusercontent.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1562238768.438555,
+      "modificationDate" : 1562422235.1545739,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "redir.opera.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557694164.487258,
+      "modificationDate" : 1557695457.5657279,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "road.adblock.ro"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557692969.465874,
+      "modificationDate" : 1557695457.5664802,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "sd-images.operacdn.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557695085.4035811,
+      "modificationDate" : 1557695457.5672259,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "services.disconnect.me"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557692956.5109539,
+      "modificationDate" : 1557695457.5679789,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "sitecheck.opera.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557694151.3901901,
+      "modificationDate" : 1557695457.568723,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "someonewhocares.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557692958.3882861,
+      "modificationDate" : 1557695457.569473,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "speeddials.opera.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557693910.41014,
+      "modificationDate" : 1557695457.570224,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "unpkg.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557693851.26476,
+      "modificationDate" : 1557695457.5709801,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "utils.add0n.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557695128.0528231,
+      "modificationDate" : 1557695457.571739,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "utils.mybrowseraddon.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557693766.1485381,
+      "modificationDate" : 1557695457.5724869,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "www.eff.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557694134.2716031,
+      "modificationDate" : 1557695457.5732379,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "www.fanboy.co.nz"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1557694740.434242,
+      "modificationDate" : 1557695457.5740051,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "www.https-rulesets.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1562238781.6960402,
+      "modificationDate" : 1562422242.4497221,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "protocol" : "tcp",
+      "remote-hosts" : "www.zoso.ro"
+    }
+  ]
+}

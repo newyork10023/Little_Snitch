@@ -1,0 +1,138 @@
+{
+  "description" : "mDNSResponder--Allow",
+  "name" : "mDNSResponder--Allow",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1520678738.584867,
+      "direction" : "incoming",
+      "modificationDate" : 1520709839.067729,
+      "owner" : "system",
+      "ports" : "5353",
+      "process" : "\/usr\/sbin\/mDNSResponder",
+      "protocol" : "udp",
+      "remote" : "broadcast"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1520678736.944823,
+      "direction" : "incoming",
+      "modificationDate" : 1520709846.725667,
+      "owner" : "system",
+      "ports" : "5353",
+      "process" : "\/usr\/sbin\/mDNSResponder",
+      "protocol" : "udp",
+      "remote" : "local-net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1567948891.165432,
+      "modificationDate" : 1567954933.079581,
+      "owner" : "system",
+      "ports" : "53",
+      "process" : "\/usr\/sbin\/mDNSResponder",
+      "protocol" : "tcp",
+      "remote-addresses" : "10.218.100.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1574361042.5071011,
+      "modificationDate" : 1574361042.5071011,
+      "owner" : "system",
+      "ports" : "53",
+      "process" : "\/usr\/sbin\/mDNSResponder",
+      "protocol" : "tcp",
+      "remote-addresses" : "10.218.120.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1554338745.1981549,
+      "modificationDate" : 1554996162.3432641,
+      "owner" : "system",
+      "ports" : "53",
+      "process" : "\/usr\/sbin\/mDNSResponder",
+      "protocol" : "tcp",
+      "remote-addresses" : "2001:470:88f3:100::1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1577630181.1824489,
+      "modificationDate" : 1577715228.7470641,
+      "owner" : "system",
+      "ports" : "53",
+      "process" : "\/usr\/sbin\/mDNSResponder",
+      "protocol" : "tcp",
+      "remote-addresses" : "2001:470:8a7d:100::1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573804032.2541831,
+      "modificationDate" : 1574017542.735091,
+      "owner" : "system",
+      "ports" : "53",
+      "process" : "\/usr\/sbin\/mDNSResponder",
+      "protocol" : "udp",
+      "remote-addresses" : "2001:470:8a7d:100::1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1520711257.074806,
+      "modificationDate" : 1520711257.074806,
+      "owner" : "system",
+      "ports" : "5353",
+      "process" : "\/usr\/sbin\/mDNSResponder",
+      "protocol" : "udp",
+      "remote-addresses" : "224.0.0.251"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1520711258.832931,
+      "modificationDate" : 1520711258.832931,
+      "owner" : "system",
+      "ports" : "5353",
+      "process" : "\/usr\/sbin\/mDNSResponder",
+      "protocol" : "udp",
+      "remote-addresses" : "ff02::fb"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1520800261.0471301,
+      "modificationDate" : 1520800261.0471301,
+      "owner" : "system",
+      "ports" : "443",
+      "process" : "\/usr\/sbin\/mDNSResponder",
+      "protocol" : "tcp",
+      "remote-domains" : "iana.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1522050634.9120879,
+      "modificationDate" : 1522910403.4064851,
+      "owner" : "system",
+      "ports" : "53",
+      "process" : "\/usr\/sbin\/mDNSResponder",
+      "protocol" : "udp",
+      "remote" : "dns-servers"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1522205715.1336379,
+      "modificationDate" : 1522207365.2857749,
+      "owner" : "system",
+      "ports" : "53",
+      "process" : "\/usr\/sbin\/mDNSResponder",
+      "protocol" : "udp",
+      "remote" : "local-net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1560094428.2992492,
+      "modificationDate" : 1560566155.7743139,
+      "owner" : "system",
+      "ports" : "5353",
+      "process" : "\/usr\/sbin\/mDNSResponder",
+      "protocol" : "udp",
+      "remote" : "local-net"
+    }
+  ]
+}

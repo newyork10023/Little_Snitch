@@ -1,0 +1,76 @@
+{
+  "description" : "",
+  "name" : "nsurlsessiond--AllowOut",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1538430347.3182759,
+      "modificationDate" : 1538510252.0316761,
+      "owner" : "system",
+      "ports" : "80",
+      "process" : "\/usr\/libexec\/nsurlsessiond",
+      "protocol" : "tcp",
+      "remote-hosts" : "updates-http.cdn-apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576918393.6963539,
+      "modificationDate" : 1576920726.0326672,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/usr\/libexec\/nsurlsessiond",
+      "protocol" : "tcp",
+      "remote-hosts" : "edge-183.usnyc.icloud-content.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1521850175.7799668,
+      "modificationDate" : 1521850175.7799668,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/usr\/libexec\/nsurlsessiond",
+      "protocol" : "tcp",
+      "remote-domains" : "s3.amazonaws.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1521516494.013273,
+      "modificationDate" : 1521516494.013273,
+      "owner" : "system",
+      "ports" : "80",
+      "process" : "\/usr\/libexec\/nsurlsessiond",
+      "protocol" : "tcp",
+      "remote-domains" : "apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1520797893.3118529,
+      "modificationDate" : 1520797893.3118529,
+      "owner" : "system",
+      "ports" : "443",
+      "process" : "\/usr\/libexec\/nsurlsessiond",
+      "protocol" : "tcp",
+      "remote-domains" : "apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1520722367.503561,
+      "modificationDate" : 1520722367.503561,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/usr\/libexec\/nsurlsessiond",
+      "protocol" : "tcp",
+      "remote-domains" : "apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1520717104.5678611,
+      "modificationDate" : 1520717104.5678611,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/usr\/libexec\/nsurlsessiond",
+      "protocol" : "tcp",
+      "remote-domains" : "icloud.com"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "description" : "BackupAndSyncFromGoogle-AllowOut",
+  "name" : "BackupAndSyncFromGoogle-AllowOut",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1527470853.3064079,
+      "modificationDate" : 1527470884.8515959,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Users\/plaw\/Applications\/Backup and Sync.app\/Contents\/MacOS\/Backup and Sync",
+      "protocol" : "tcp",
+      "remote-hosts" : "accounts.google.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1559611391.5954509,
+      "modificationDate" : 1560093215.192353,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Users\/plaw\/Applications\/Backup and Sync.app\/Contents\/MacOS\/Backup and Sync",
+      "protocol" : "tcp",
+      "remote-hosts" : "apis.google.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1559611430.6650681,
+      "modificationDate" : 1560093215.193095,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Users\/plaw\/Applications\/Backup and Sync.app\/Contents\/MacOS\/Backup and Sync",
+      "protocol" : "tcp",
+      "remote-hosts" : "content.googleapis.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1554333455.1721539,
+      "modificationDate" : 1554333495.3382959,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Users\/plaw\/Applications\/Backup and Sync.app\/Contents\/MacOS\/Backup and Sync",
+      "protocol" : "tcp",
+      "remote-hosts" : "csi.gstatic.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572381461.9804811,
+      "modificationDate" : 1572381580.539917,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Users\/plaw\/Applications\/Backup and Sync.app\/Contents\/MacOS\/Backup and Sync",
+      "protocol" : "tcp",
+      "remote-hosts" : "device-provisioning.googleapis.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1527470872.1395202,
+      "modificationDate" : 1527470884.8473248,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Users\/plaw\/Applications\/Backup and Sync.app\/Contents\/MacOS\/Backup and Sync",
+      "protocol" : "tcp",
+      "remote-hosts" : "drive.google.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1569530668.7973731,
+      "modificationDate" : 1569533530.240777,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Users\/plaw\/Applications\/Backup and Sync.app\/Contents\/MacOS\/Backup and Sync",
+      "protocol" : "tcp",
+      "remote-hosts" : "fcm-stream.googleapis.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572381469.8063951,
+      "modificationDate" : 1572381580.54071,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Users\/plaw\/Applications\/Backup and Sync.app\/Contents\/MacOS\/Backup and Sync",
+      "protocol" : "tcp",
+      "remote-hosts" : "fcmconnection.googleapis.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572381467.2865372,
+      "modificationDate" : 1572381580.541527,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Users\/plaw\/Applications\/Backup and Sync.app\/Contents\/MacOS\/Backup and Sync",
+      "protocol" : "tcp",
+      "remote-hosts" : "fcmtoken.googleapis.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1569530684.8459139,
+      "modificationDate" : 1569533530.2415991,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Users\/plaw\/Applications\/Backup and Sync.app\/Contents\/MacOS\/Backup and Sync",
+      "protocol" : "tcp",
+      "remote-hosts" : "firebaseperusertopics-pa.googleapis.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1551903805.608021,
+      "modificationDate" : 1552048034.4049029,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Users\/plaw\/Applications\/Backup and Sync.app\/Contents\/MacOS\/Backup and Sync",
+      "protocol" : "tcp",
+      "remote-hosts" : "fonts.gstatic.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1551903823.0694971,
+      "modificationDate" : 1552048034.4057469,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Users\/plaw\/Applications\/Backup and Sync.app\/Contents\/MacOS\/Backup and Sync",
+      "protocol" : "tcp",
+      "remote-hosts" : "lh3.googleusercontent.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1527470864.452091,
+      "modificationDate" : 1527470884.849211,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Users\/plaw\/Applications\/Backup and Sync.app\/Contents\/MacOS\/Backup and Sync",
+      "protocol" : "tcp",
+      "remote-hosts" : "lh5.googleusercontent.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1551903861.358501,
+      "modificationDate" : 1552048034.4066029,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Users\/plaw\/Applications\/Backup and Sync.app\/Contents\/MacOS\/Backup and Sync",
+      "protocol" : "tcp",
+      "remote-hosts" : "play.google.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1551903802.384089,
+      "modificationDate" : 1552048034.4074888,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Users\/plaw\/Applications\/Backup and Sync.app\/Contents\/MacOS\/Backup and Sync",
+      "protocol" : "tcp",
+      "remote-hosts" : "ssl.gstatic.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1558643784.3920379,
+      "modificationDate" : 1558645236.4479961,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Users\/plaw\/Applications\/Backup and Sync.app\/Contents\/MacOS\/Backup and Sync",
+      "protocol" : "tcp",
+      "remote-hosts" : "www.google.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1527470861.4465442,
+      "modificationDate" : 1527470884.8504219,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Users\/plaw\/Applications\/Backup and Sync.app\/Contents\/MacOS\/Backup and Sync",
+      "protocol" : "tcp",
+      "remote-hosts" : "www.googleapis.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1551903824.507828,
+      "modificationDate" : 1552048034.4083462,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Users\/plaw\/Applications\/Backup and Sync.app\/Contents\/MacOS\/Backup and Sync",
+      "protocol" : "tcp",
+      "remote-hosts" : "www.gstatic.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1527470866.7625918,
+      "modificationDate" : 1527470884.852783,
+      "owner" : "me",
+      "ports" : "5222",
+      "process" : "\/Users\/plaw\/Applications\/Backup and Sync.app\/Contents\/MacOS\/Backup and Sync",
+      "protocol" : "tcp",
+      "remote-hosts" : "talk.google.com"
+    }
+  ]
+}

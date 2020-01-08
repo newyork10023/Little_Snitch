@@ -1,0 +1,16 @@
+{
+  "description" : "timed--AllowOut",
+  "name" : "timed--AllowOut",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1576918479.139255,
+      "modificationDate" : 1576920783.089191,
+      "owner" : "system",
+      "ports" : "123",
+      "process" : "\/usr\/libexec\/timed",
+      "protocol" : "udp",
+      "remote-hosts" : "time.apple.com"
+    }
+  ]
+}

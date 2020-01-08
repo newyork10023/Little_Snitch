@@ -1,0 +1,126 @@
+{
+  "description" : "",
+  "name" : "Safari--AllowOut",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1541208355.975826,
+      "modificationDate" : 1541334869.5432959,
+      "owner" : "me",
+      "ports" : "123",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "protocol" : "udp",
+      "remote-hosts" : "time-macos.apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576918042.7722049,
+      "modificationDate" : 1576920743.7787971,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "protocol" : "tcp",
+      "remote-hosts" : "accounts.google.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576918057.291151,
+      "modificationDate" : 1576920743.7795911,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "protocol" : "tcp",
+      "remote-hosts" : "accounts.youtube.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1552509335.544317,
+      "modificationDate" : 1552827690.696377,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "protocol" : "tcp",
+      "remote-hosts" : "duckduckgo.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576918050.497689,
+      "modificationDate" : 1576920743.7803359,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "protocol" : "tcp",
+      "remote-hosts" : "fonts.gstatic.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1552515134.116456,
+      "modificationDate" : 1552827672.712981,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "protocol" : "tcp",
+      "remote-hosts" : "improving.duckduckgo.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576918280.775604,
+      "modificationDate" : 1576920743.7811189,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "protocol" : "tcp",
+      "remote-hosts" : "lh3.googleusercontent.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576918055.126842,
+      "modificationDate" : 1576920743.781872,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "protocol" : "tcp",
+      "remote-hosts" : "play.google.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576918047.6594629,
+      "modificationDate" : 1576920743.78264,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "protocol" : "tcp",
+      "remote-hosts" : "ssl.gstatic.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576918271.6264591,
+      "modificationDate" : 1576920743.784739,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "protocol" : "tcp",
+      "remote-hosts" : "www.gstatic.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1542359577.7798769,
+      "modificationDate" : 1542361040.26964,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "protocol" : "tcp",
+      "remote-hosts" : "www.icloud.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1520807485.558356,
+      "modificationDate" : 1520807485.558356,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "protocol" : "tcp",
+      "remote-domains" : "apple.com"
+    }
+  ]
+}

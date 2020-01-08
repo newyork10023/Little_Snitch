@@ -1,0 +1,216 @@
+{
+  "description" : "esets_daemon-AllowOut",
+  "name" : "esets_daemon-AllowOut",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1572379547.209866,
+      "modificationDate" : 1572381656.930069,
+      "owner" : "system",
+      "ports" : "80",
+      "process" : "\/Applications\/ESET Cyber Security Pro.app\/Contents\/MacOS\/esets_daemon",
+      "protocol" : "tcp",
+      "remote-addresses" : "38.90.226.37"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572379675.6086879,
+      "modificationDate" : 1572381656.930855,
+      "owner" : "system",
+      "ports" : "80",
+      "process" : "\/Applications\/ESET Cyber Security Pro.app\/Contents\/MacOS\/esets_daemon",
+      "protocol" : "tcp",
+      "remote-addresses" : "38.90.226.39"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572379800.1000209,
+      "modificationDate" : 1572381656.9316411,
+      "owner" : "system",
+      "ports" : "80",
+      "process" : "\/Applications\/ESET Cyber Security Pro.app\/Contents\/MacOS\/esets_daemon",
+      "protocol" : "tcp",
+      "remote-addresses" : "38.90.226.40"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572380603.3935041,
+      "modificationDate" : 1572381656.9324341,
+      "owner" : "system",
+      "ports" : "80",
+      "process" : "\/Applications\/ESET Cyber Security Pro.app\/Contents\/MacOS\/esets_daemon",
+      "protocol" : "tcp",
+      "remote-addresses" : "91.228.166.13"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572379294.022064,
+      "modificationDate" : 1572379311.25563,
+      "owner" : "system",
+      "ports" : "80",
+      "process" : "\/Applications\/ESET Cyber Security Pro.app\/Contents\/MacOS\/esets_daemon",
+      "protocol" : "tcp",
+      "remote-addresses" : "91.228.166.16"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572379419.979753,
+      "modificationDate" : 1572381656.933217,
+      "owner" : "system",
+      "ports" : "80",
+      "process" : "\/Applications\/ESET Cyber Security Pro.app\/Contents\/MacOS\/esets_daemon",
+      "protocol" : "tcp",
+      "remote-addresses" : "91.228.167.133"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572380353.0119228,
+      "modificationDate" : 1572381656.9340539,
+      "owner" : "system",
+      "ports" : "80",
+      "process" : "\/Applications\/ESET Cyber Security Pro.app\/Contents\/MacOS\/esets_daemon",
+      "protocol" : "tcp",
+      "remote-addresses" : "91.228.167.21"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572615314.609859,
+      "modificationDate" : 1572666233.5995121,
+      "owner" : "system",
+      "ports" : "80",
+      "process" : "\/Applications\/ESET Cyber Security Pro.app\/Contents\/MacOS\/esets_daemon",
+      "protocol" : "tcp",
+      "remote-hosts" : "expire.eset.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572381457.661859,
+      "modificationDate" : 1572381652.8506041,
+      "owner" : "system",
+      "ports" : "80",
+      "process" : "\/Applications\/ESET Cyber Security Pro.app\/Contents\/MacOS\/esets_daemon",
+      "protocol" : "tcp",
+      "remote-hosts" : "go.eset.eu"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572549105.0097761,
+      "modificationDate" : 1572666233.6002669,
+      "owner" : "system",
+      "ports" : "80",
+      "process" : "\/Applications\/ESET Cyber Security Pro.app\/Contents\/MacOS\/esets_daemon",
+      "protocol" : "tcp",
+      "remote-hosts" : "i1.c.eset.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572546941.213727,
+      "modificationDate" : 1572666233.601012,
+      "owner" : "system",
+      "ports" : "80",
+      "process" : "\/Applications\/ESET Cyber Security Pro.app\/Contents\/MacOS\/esets_daemon",
+      "protocol" : "tcp",
+      "remote-hosts" : "i3.c.eset.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572546877.5928359,
+      "modificationDate" : 1572666233.601768,
+      "owner" : "system",
+      "ports" : "80",
+      "process" : "\/Applications\/ESET Cyber Security Pro.app\/Contents\/MacOS\/esets_daemon",
+      "protocol" : "tcp",
+      "remote-hosts" : "i4.c.eset.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573164533.60482,
+      "modificationDate" : 1573164597.952256,
+      "owner" : "system",
+      "ports" : "80",
+      "process" : "\/Applications\/ESET Cyber Security Pro.app\/Contents\/MacOS\/esets_daemon",
+      "protocol" : "tcp",
+      "remote-hosts" : "iploc.eset.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572545753.328366,
+      "modificationDate" : 1572666233.6025341,
+      "owner" : "system",
+      "ports" : "80",
+      "process" : "\/Applications\/ESET Cyber Security Pro.app\/Contents\/MacOS\/esets_daemon",
+      "protocol" : "tcp",
+      "remote-hosts" : "um02.eset.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572545875.7630792,
+      "modificationDate" : 1572666233.6032782,
+      "owner" : "system",
+      "ports" : "80",
+      "process" : "\/Applications\/ESET Cyber Security Pro.app\/Contents\/MacOS\/esets_daemon",
+      "protocol" : "tcp",
+      "remote-hosts" : "um03.eset.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572546292.652962,
+      "modificationDate" : 1572666233.6040421,
+      "owner" : "system",
+      "ports" : "80",
+      "process" : "\/Applications\/ESET Cyber Security Pro.app\/Contents\/MacOS\/esets_daemon",
+      "protocol" : "tcp",
+      "remote-hosts" : "um05.eset.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573323520.200192,
+      "modificationDate" : 1573373004.4432211,
+      "owner" : "system",
+      "ports" : "80",
+      "process" : "\/Applications\/ESET Cyber Security Pro.app\/Contents\/MacOS\/esets_daemon",
+      "protocol" : "tcp",
+      "remote-hosts" : "um09.eset.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572546657.2707329,
+      "modificationDate" : 1572666233.6048031,
+      "owner" : "system",
+      "ports" : "80",
+      "process" : "\/Applications\/ESET Cyber Security Pro.app\/Contents\/MacOS\/esets_daemon",
+      "protocol" : "tcp",
+      "remote-hosts" : "um11.eset.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572546780.808322,
+      "modificationDate" : 1572666233.605607,
+      "owner" : "system",
+      "ports" : "80",
+      "process" : "\/Applications\/ESET Cyber Security Pro.app\/Contents\/MacOS\/esets_daemon",
+      "protocol" : "tcp",
+      "remote-hosts" : "um21.eset.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573164559.4081159,
+      "modificationDate" : 1573164597.9530611,
+      "owner" : "system",
+      "ports" : "80",
+      "process" : "\/Applications\/ESET Cyber Security Pro.app\/Contents\/MacOS\/esets_daemon",
+      "protocol" : "tcp",
+      "remote-hosts" : "versioncheck.eset.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572378427.0771132,
+      "modificationDate" : 1572378489.404145,
+      "owner" : "system",
+      "ports" : "443",
+      "process" : "\/Applications\/ESET Cyber Security Pro.app\/Contents\/MacOS\/esets_daemon",
+      "protocol" : "tcp",
+      "remote-hosts" : "edf.eset.com"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "description" : "",
+  "name" : "AnyProcess-BlockOut-SocialMedia",
+  "rules" : [
+    {
+      "action" : "deny",
+      "creationDate" : 1572390151.3699131,
+      "modificationDate" : 1572390151.3699131,
+      "owner" : "any",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote-domains" : "addthis.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1572390151.3699131,
+      "modificationDate" : 1572390151.3699131,
+      "owner" : "any",
+      "process" : "any",
+      "remote-domains" : "facebook.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1572390151.3699131,
+      "modificationDate" : 1572390151.3699131,
+      "owner" : "any",
+      "process" : "any",
+      "remote-domains" : "facebook.net"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1572390151.3699131,
+      "modificationDate" : 1572390151.3699131,
+      "owner" : "any",
+      "process" : "any",
+      "remote-domains" : "twitter.com"
+    }
+  ]
+}

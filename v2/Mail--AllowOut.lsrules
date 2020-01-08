@@ -1,0 +1,116 @@
+{
+  "description" : "Mail--AllowOut",
+  "name" : "Mail--AllowOut",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1542227659.7099891,
+      "modificationDate" : 1542264028.4173679,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Mail.app\/Contents\/MacOS\/Mail",
+      "protocol" : "tcp",
+      "remote-hosts" : "accounts.google.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1542227663.5073009,
+      "modificationDate" : 1542264028.4148819,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Mail.app\/Contents\/MacOS\/Mail",
+      "protocol" : "tcp",
+      "remote-hosts" : "fonts.gstatic.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1542227656.7926989,
+      "modificationDate" : 1542264028.418602,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Mail.app\/Contents\/MacOS\/Mail",
+      "protocol" : "tcp",
+      "remote-hosts" : "gil.apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1542227665.764642,
+      "modificationDate" : 1542264028.4136372,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Mail.app\/Contents\/MacOS\/Mail",
+      "protocol" : "tcp",
+      "remote-hosts" : "play.google.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1542227661.0678601,
+      "modificationDate" : 1542264028.4161301,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Mail.app\/Contents\/MacOS\/Mail",
+      "protocol" : "tcp",
+      "remote-hosts" : "ssl.gstatic.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1542227832.2674999,
+      "modificationDate" : 1542264028.412394,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Mail.app\/Contents\/MacOS\/Mail",
+      "protocol" : "tcp",
+      "remote-hosts" : "www.googleapis.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1556671761.9135671,
+      "modificationDate" : 1556673621.9721599,
+      "owner" : "me",
+      "ports" : "465",
+      "process" : "\/Applications\/Mail.app\/Contents\/MacOS\/Mail",
+      "protocol" : "tcp",
+      "remote-hosts" : "smtp.gmail.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1542227913.405983,
+      "modificationDate" : 1542264028.419838,
+      "owner" : "me",
+      "ports" : "585",
+      "process" : "\/Applications\/Mail.app\/Contents\/MacOS\/Mail",
+      "protocol" : "tcp",
+      "remote-hosts" : "imap.gmail.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1556671765.2450972,
+      "modificationDate" : 1556673621.9728651,
+      "owner" : "me",
+      "ports" : "587",
+      "process" : "\/Applications\/Mail.app\/Contents\/MacOS\/Mail",
+      "protocol" : "tcp",
+      "remote-hosts" : "p43-smtp.mail.me.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1542227870.2368569,
+      "modificationDate" : 1542264028.421139,
+      "owner" : "me",
+      "ports" : "993",
+      "process" : "\/Applications\/Mail.app\/Contents\/MacOS\/Mail",
+      "protocol" : "tcp",
+      "remote-hosts" : "imap.gmail.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1556671777.1170092,
+      "modificationDate" : 1556673621.9736209,
+      "owner" : "me",
+      "ports" : "993",
+      "process" : "\/Applications\/Mail.app\/Contents\/MacOS\/Mail",
+      "protocol" : "tcp",
+      "remote-hosts" : "p43-imap.mail.me.com"
+    }
+  ]
+}

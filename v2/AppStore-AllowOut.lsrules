@@ -1,0 +1,266 @@
+{
+  "description" : "AppStore-AllowOut",
+  "name" : "AppStore-AllowOut",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1576920437.379792,
+      "modificationDate" : 1576920706.8601451,
+      "owner" : "me",
+      "ports" : "80",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "apptrailers.itunes.apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1562421800.979358,
+      "modificationDate" : 1562422210.8739228,
+      "owner" : "me",
+      "ports" : "80",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "r.mzstatic.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1530722382.5702472,
+      "modificationDate" : 1530745711.0770411,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "a2.mzstatic.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1530722401.902807,
+      "modificationDate" : 1530745711.0758538,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "a3.mzstatic.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1562421803.2888241,
+      "modificationDate" : 1562422210.8747249,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "apps.apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576918045.4049449,
+      "modificationDate" : 1576920706.8608921,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "apps.mzstatic.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576920419.916939,
+      "modificationDate" : 1576920706.861619,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "apptrailers-ssl.itunes.apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576918040.6150379,
+      "modificationDate" : 1576920706.8623509,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "bag.itunes.apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1552760695.472517,
+      "modificationDate" : 1552827503.8487921,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "finance-app.itunes.apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1530722302.9259691,
+      "modificationDate" : 1530745711.0792351,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "gsa.apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1522950138.8248391,
+      "modificationDate" : 1522950138.8248391,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "is1-ssl.mzstatic.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1522950133.422348,
+      "modificationDate" : 1522950133.422348,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "is2-ssl.mzstatic.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1522950134.4655089,
+      "modificationDate" : 1522950134.4655089,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "is3-ssl.mzstatic.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1522950137.978689,
+      "modificationDate" : 1522950137.978689,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "is4-ssl.mzstatic.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1522950136.504699,
+      "modificationDate" : 1522950136.504699,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "is5-ssl.mzstatic.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1522950130.2073359,
+      "modificationDate" : 1522950130.2073359,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "itunes.apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1522950836.3859339,
+      "modificationDate" : 1522950836.3859339,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "myapp.itunes.apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1530722379.6237469,
+      "modificationDate" : 1530745711.0781379,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "p37-buy.itunes.apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576918073.0912261,
+      "modificationDate" : 1576920706.863153,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "play.itunes.apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1522950128.49528,
+      "modificationDate" : 1522950128.49528,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "s.mzstatic.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1522950135.2505732,
+      "modificationDate" : 1522950135.2505732,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "se-edge.itunes.apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1533179534.1029348,
+      "modificationDate" : 1533273300.074594,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "search.itunes.apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1576920984.5632901,
+      "modificationDate" : 1576921182.6128869,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "sf-api-token-service.itunes.apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1522950144.603236,
+      "modificationDate" : 1522950144.603236,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "su.itunes.apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1542152785.645252,
+      "modificationDate" : 1542159386.9467568,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "userpub.itunes.apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1522950132.1429191,
+      "modificationDate" : 1522950132.1429191,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "protocol" : "tcp",
+      "remote-hosts" : "xp.apple.com"
+    }
+  ]
+}
