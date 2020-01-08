@@ -1,0 +1,102 @@
+{
+  "description" : "AnyProcess-BlockOut-AdServers",
+  "name" : "AnyProcess-BlockOut-AdServers",
+  "rules" : [
+    {
+      "action" : "deny",
+      "creationDate" : 1554339671.7187529,
+      "modificationDate" : 1554996189.4519591,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "secure.adnxs.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1572390151.3699131,
+      "modificationDate" : 1572390151.3699131,
+      "owner" : "any",
+      "process" : "any",
+      "remote-hosts" : "ads.pubmatic.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1572390151.3699131,
+      "modificationDate" : 1572390151.3699131,
+      "owner" : "any",
+      "process" : "any",
+      "remote-hosts" : "adservice.google.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1572390151.3699131,
+      "modificationDate" : 1572390151.3699131,
+      "owner" : "any",
+      "process" : "any",
+      "remote-domains" : "adssettings.google.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1572390151.3699131,
+      "modificationDate" : 1572390151.3699131,
+      "owner" : "any",
+      "process" : "any",
+      "remote-domains" : "adready.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1572390151.3699131,
+      "modificationDate" : 1572390151.3699131,
+      "owner" : "any",
+      "process" : "any",
+      "remote-domains" : "ads-twitter.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1572390151.3699131,
+      "modificationDate" : 1572390151.3699131,
+      "owner" : "any",
+      "process" : "any",
+      "remote-domains" : "advertising.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1572390151.3699131,
+      "modificationDate" : 1572390151.3699131,
+      "owner" : "any",
+      "process" : "any",
+      "remote-domains" : "amazon-adsystem.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1572390151.3699131,
+      "modificationDate" : 1572390151.3699131,
+      "owner" : "any",
+      "process" : "any",
+      "remote-domains" : "doubleclick.net"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1572390151.3699131,
+      "modificationDate" : 1572390151.3699131,
+      "owner" : "any",
+      "process" : "any",
+      "remote-domains" : "googleadservices.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1572390151.3699131,
+      "modificationDate" : 1572390151.3699131,
+      "owner" : "any",
+      "process" : "any",
+      "remote-domains" : "googlesyndication.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1572390151.3699131,
+      "modificationDate" : 1572390151.3699131,
+      "owner" : "any",
+      "process" : "any",
+      "remote-domains" : "smartadserver.com"
+    }
+  ]
+}
