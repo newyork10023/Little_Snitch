@@ -11,30 +11,6 @@
       "remote-hosts" : "secure.adnxs.com"
     },
     {
-      "creationDate" : 1522977438.29996,
-      "process" : "any",
-      "owner" : "me",
-      "modificationDate" : 1527144917.305412,
-      "remote-domains" : "googletagmanager.com",
-      "action" : "deny"
-    },
-    {
-      "creationDate" : 1522977422.507788,
-      "process" : "any",
-      "owner" : "me",
-      "modificationDate" : 1531776894.415395,
-      "remote-domains" : "googletagservices.com",
-      "action" : "deny"
-    },
-    {
-      "creationDate" : 1543009049.932088,
-      "process" : "any",
-      "owner" : "me",
-      "modificationDate" : 1543220184.720939,
-      "remote-domains" : "analytics.yahoo.com",
-      "action" : "deny"
-    },
-    {
       "action" : "deny",
       "creationDate" : 1572390151.3699131,
       "modificationDate" : 1572390151.3699131,
