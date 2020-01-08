@@ -16,7 +16,6 @@
       "modificationDate" : 1572390151.3699131,
       "owner" : "any",
       "process" : "any",
-      "protocol" : "tcp",
       "remote-domains" : "newrelic.com"
     },
     {
